@@ -1,0 +1,6 @@
+[submodule "BaselineSystem"]
+	path = BaselineSystem
+	url = ./BaselineSystem
+[submodule "QABot"]
+	path = QABot
+	url = ./QABot
