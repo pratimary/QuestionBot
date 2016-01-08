@@ -1,0 +1,505 @@
+Which subject do you prefer over Database? Algorithms or Machine Learning?
+Compare the currency of dollar with rupee.
+Did John Adams represent the Continental Congress in Europe?
+What was Adams' political party?
+List the differences between while and do while loop.
+Differentiate between for and while loop.
+Where do joeys complete postnatal development?what is your name?
+Colleges better than IU but worse than Ivy League?
+Dell or HP, help?
+In terms of energy, what is the difference between glucose and ATP?
+What kind of thread or string do I use when hand tying a denim quilt? // wh question
+Which laundry detergent is better? Tide or Gain? Which do you prefer?
+should i get a metal or wood platform bed?
+White or pink walls for my bedroom?
+do you want dinner?
+do you want more soup?
+Is it a better experience to have a dog as a child or as an adult?
+Which names sound better?  - Non-Comparative
+What would be a better bank? - Non_comparative
+What's the difference between Google Play and Play Store?
+Difference between dell and HP for gaming?
+compare dell and hp for gaming?
+which is the least favorable feature among all?
+is Dell better than HP?
+would you prefer sleeping?
+is Dell more reliable than alienware?
+Who is the laziest fellow on earth?
+What happened in 1896?
+1365 vs 8796
+Is Ramu better than Somu?
+Is Somu better than Ramu?
+Do they prefer forested areas?
+Which laptops you prefer over Alienware?
+Ferrari Vs Lamborgini?
+boys vs girls
+What part of an elephant is very important for temperature regulation?
+Were the treaties signed in 1947 and 1948 with the Ukraine?
+Is Finnish a member of the Baltic-Finnic subgroup of the Uralic languages?
+In what year were the "Games of the XV Olympiad" held?
+Are Canada 's two official languages English and French ?
+Is it the world 's second largest country by total area?
+Do all ducks "quack"?
+Who is Daffy Duck?
+Which is better? cats or dogs?
+What economic uses to ducks have?
+How does a Mallard's tongue work?
+Naughty boys vs girls!
+Compare Java and C++.
+Difference between Datastructures and Algorithms.
+What would be a better bank? - Non_comparative
+Was Amedeo Avogadro born in Turin August 9th 1776 to a noble ancient family of Piedmont, Italy?
+What's the difference between Google Play and Play Store?
+Which is better Andriod or IOS?
+Difference between dell and HP for gaming?
+What is Jakarta?
+Rahman songs vs ilayaraja songs?
+Has Indonesia the world 's largest Muslim population ?
+David Guetta vs David Beckam?
+Who was, by later reports of his contemporaries, thoroughly unhappy with the work?
+Compare Sony and Beats headphones.
+Which city is better, chennai or madurai?
+What quartered on March?
+Who do you think would win between Nadal and Federer?
+What is the first word on the page?
+What is the third word on the page?
+What did James Monroe do before being elected governor?
+When did James Monroe introduce the Monroe Doctrine?
+Sample program in Scala and R languages.
+Boston vs Chicago.
+Where is life style of people better? Newyork or California?
+Is a kangaroo a reptile?
+What are some extinct predators of the kangaroo?
+What is a roo?
+Compare features of T-rex and Velociraptor.
+List the configurations of Alienware.
+Compare the features of Apple and Lenova laptops.
+Is the leopard smaller than the other members of Panthera?
+What shape are a leopard's black rosettes in East Africa?
+Is the black color heritable and caused by only one recessive gene locus ?
+Which holidays do you like more, Christmas or thanksgiving?
+What is the difference between Eclipse and IDEA?
+Can we call an undeclared function in C++?
+Can we access global variable if there is a local variable with same name?
+Can we use function on left side of an expression in C and C++?
+Can namespaces be nested in C++?
+Can we access private data members of a class without using a member or a friend function?
+How to make a C++ class whose objects can only be dynamically allocated?
+How to print “GeeksforGeeks” with empty main() in C++?
+Print 1 to 100 in C++, without loop and recursion
+How to restrict dynamic allocation of objects in C++?
+Elaborate Arrays in Java.
+How to compare two arrays in Java?
+Explain Final arrays in Java.
+Comparison of Exception Handling in C++ and Java?
+Catching base and derived classes as exceptions?
+Checked vs Unchecked Exceptions in Java?
+List Access specifier of methods in interfaces.
+Differentiate Access specifiers for classes or interfaces in Java.
+What are Abstract Classes in Java?
+Compare two strings represented as linked lists.
+Rearrange a given linked list in-place. Is it possible?
+Sort a linked list that is sorted alternating ascending and descending orders?
+Construct a Maximum Sum Linked List out of two Sorted Linked Lists having some Common nodes.
+Find k closest elements to a given value
+Sort n numbers in range from 0 to n^2 – 1 in linear time
+A Problem in Many Binary Search Implementations
+Search in an almost sorted array
+Sort an array in wave form
+Why is Binary Search preferred over Ternary Search?
+Do Insertion Sort for Singly Linked List.
+Why Quick Sort preferred for Arrays and Merge Sort for Linked Lists?
+How to check if two given line segments intersect?
+How to check if a given point lies inside or outside a polygon?
+Calculate the angle between hour hand and minute hand
+Count number of binary strings without consecutive 1?s
+Find the smallest number whose digits multiply to a given number n
+Draw a circle without floating point arithmetic
+How to check if an instance of 8 puzzle is solvable?
+Given n appointments, find all conflicting appointments
+Check a given sentence for a given set of simple grammer rules
+Find Index of 0 to be replaced with 1 to get longest continuous sequence of 1s in a binary array
+How to check if two given sets are disjoint?
+Compare Andriod vs IOS.
+Compare Windows OS vs IOS.
+Compare Windows OS and Andriod?
+Apples and oranges are same. Is that correct?
+Is merge sort efficient than Shell sort?
+Write a function that returns 2 for input 1 and returns 1 for 2.
+Connect n ropes with minimum cost.
+Find the number of valid parentheses expressions of given length.
+Generate all binary permutations such that there are more 1’s than 0’s at every point in all permutations.
+Write a function that counts the number of times a given int occurs in a Linked List
+Reverse a linked list
+Detect loop in a linked list
+Function to check if a singly linked list is palindrome
+Given a linked list which is sorted, how will you insert in sorted way
+Intersection point of two Linked Lists.
+Recursive function to print reverse of a Linked List
+Remove duplicates from a sorted linked list
+Remove duplicates from an unsorted linked list
+Pairwise swap elements of a given linked list
+Practice questions for Linked List and Recursion
+Move last element to front of a given Linked List
+Compare Single LinkedList vs Double LinkedList in Run time complexity.
+Implement Queue using Stacks
+Check whether a given Binary Tree is Complete or not
+Determine if Two Trees are Identical
+Maximum Depth or Height of a Tree
+Write a C program to Delete a Tree.
+Write an Efficient C Function to Convert a Binary Tree into its Mirror Tree
+If you are given two traversal sequences, can you construct the binary tree?
+Given a binary tree, print out all of its root-to-leaf paths one per line.
+How to determine if a binary tree is height-balanced?
+Which algorithm is efficient?
+Is O(n) R.T better than O(n!)?
+Print unique rows in a given boolean matrix
+How to Implement Reverse DNS Look Up Cache?
+How to Implement Forward DNS Look Up Cache?
+Implement LRU Cache
+Sort numbers stored on different machines
+Find the k most frequent words from a file
+Given a sequence of words, print all anagrams together
+Elaborate about trie.
+Which data structure is efficient for duplicate removal, Hashing or Sorting?
+Linear probing vs quadratic probing?
+Compare LRAD and Martin Garrix songs.
+Differentiate between Tournament Tree (Winner Tree) and Binary Heap
+Decision Trees – Fake (Counterfeit) Coin Puzzle (12 Coin Puzzle)
+Spaghetti Stack
+Data Structure for Dictionary and Spell Checker?
+Merge an array of size n into another array of size m+n
+Median of two sorted arrays
+Write a program to reverse an array
+Program for array rotation
+Reversal algorithm for array rotation
+Block swap algorithm for array rotation
+Which is bigger. 6 or 7?
+What has more weightage, assignments or exams?
+Which is faster to submit , hard copy or soft copy?
+Which place is cheaper the stay, chicago or boston?
+Who is faster than usain bolt?
+Who is mass than pandi?
+Union and Intersection of two sorted arrays
+Floor and Ceiling in a sorted array
+A Product Array Puzzle
+How do you segregate Even and Odd numbers
+Find the two repeating elements in a given array
+Sort an array of 0s, 1s and 2s
+Find the Minimum length Unsorted Subarray, sorting which makes the complete array sorted
+Find duplicates in O(n) time and O(1) extra space
+Equilibrium index of an array
+Linked List vs Array
+Which sorting algorithm makes minimum number of memory writes?
+Turn an image by 90 degree
+Next Greater Element
+Count the number of occurrences in a sorted array
+Interpolation search vs Binary search
+Linear Search vs Binary Search.
+Hashing vs Nested Hashing.
+Find a Fixed Point in a given array
+Maximum Length Bitonic Subarray
+Find the maximum element in an array which is first increasing and then decreasing
+Count smaller elements on right side
+Minimum number of jumps to reach end
+Implement two stacks in an array
+Find subarray with given sum
+Find a sorted subsequence of size 3 in linear time
+Largest subarray with equal number of 0s and 1s
+Dynamic Programming | Set 18 (Partition problem)
+Maximum Product Subarray
+Find a pair with the given difference
+Replace every element with the next greatest
+Print all possible combinations of r elements in a given array of size n
+Given an array of of size n and a number k, find all elements that appear more than n/k times
+Find the point where a monotonically increasing function becomes positive first time
+Find the Increasing subsequence of length three with maximum product
+Product of which twi numbers would give highest value, -9 or -8?
+Which is bigger than 7? 8 or 6?
+Who is better coder than VP?
+Who is better coder than VP? Kabul or Kaaabul?
+Find the closest pair from two sorted arrays
+Given a sorted array and a number x, find the pair in array whose sum is closest to x
+Count 1’s in a sorted binary array
+Print All Distinct Elements of a given integer array
+Construct an array from its pair-sum array
+Find common elements in three sorted arrays
+Find the first repeating element in an array of integers
+What is advantage of sorted arrays?
+J2EE vs Java?
+Which do you prefer over Hot chocolate? Coffee?
+Can QuickSort be implemented in O(nLogn) worst case time complexity?
+Check if a given array contains duplicate elements within k distance from each other
+Find the element that appears once.
+Which is efficient union or intersection?
+Who is better? left or right?
+Given an n x n square matrix, find sum of all sub-squares of size k x k
+Count number of islands where every island is row-wise and column-wise separated
+Find a common element in all rows of a given row-wise sorted matrix
+Given a matrix of ‘O’ and ‘X’, replace ‘O’ with ‘X’ if surrounded by ‘X’
+What is quicker than cheetah?
+Which is better than programming? Coding or Logical thinking?
+what is the probability that they don't collide?
+Which chances are high to occur?
+Who is better than Ronaldo? Messi or Suarez?
+Ronaldo or Messi?
+Neymar or Suarex in barcelona?
+WHose the best football player?
+WHose the best football player? Ronaldo or Rooney?
+how would you cut the remainder of the cake into two equal halves with one straight cut of a knife ?
+give an efficient algorithm to reverse the order of the words (not characters) in it.
+How many points are there on the globe where by walking one mile south, one mile east and one mile north you reach the place where you started?
+Which place is better to stay north or south?
+Which place is better to stay east or south?
+Which place is better to stay west or south?
+WHich function is better sqrt or math?
+Which language do you prefer to find square root?java or python?
+In arithmetic expressions, to what data type will the C compiler promote a character?
+What is the difference between a statement and a block?
+Specify a C loop with the test at the bottom.
+What is the switch statement?
+What does a break statement do? Which control structures use it?
+In a loop, what is the difference between a break and continue statement?
+Where may variables be defined in C?
+What is the difference between a variable definition and a variable declaration?
+What is the purpose of a function prototype?
+List C's storage classes and what they signify.
+State the syntax for the printf() and scanf() functions. State their one crucial difference with respect to their parameters.
+With respect to function parameter passing, what is the difference between call-by-value and call-by-reference? Which method does C use?
+What is a structure and a union in C?
+What is the difference between: #include <stdio.h> and #include "stdio.h"
+What is #ifdef used for?
+How do you define a constant in C?
+Why can't you nest structure definitions?
+Can you nest function definitions?
+What is a forward reference?
+What are the following and how do they differ: int, long, float and double?
+Is it possible to take the square-root of a number in C. Is there a square-root operator in C?
+Using fprintf() print a single floating point number right-justified in a field of 20 spaces, no leading zeros, and 4 decimal places. The destination should be stderr and the variable is called num.
+What is the difference between the & and && operators and the | and || operators?
+What is the difference between the -> and . operators?
+What is the symbol for the modulus operator?
+In C++ what is a constructor? A destructor?
+Compare and contrast C and C++.
+What is operator overloading?
+Differentiate cin and cout?
+Contrast procedural and object oriented programming.
+How do you link a C++ program to C functions?
+Explain the scope resolution operator.
+What are the differences between a C++ struct and C++ class?
+What is the difference between a copy constructor and an overloaded assignment operator?
+When should you use multiple inheritance?
+What is a virtual destructor?
+Explain the ISA and HASA class relationships. How would you implement each in a class design?
+What are the differences between a C++ enum and C++ class?
+What do the keyword static and const signify ?
+How is memory allocated/deallocated in C ? How about C++ ?
+What is UML ?
+What is the difference between a shallow copy and a deep copy ?
+What are the differences between new and malloc?
+What is the difference between delete and delete[]?
+What are the differences between a struct in C and in C++?
+What are the advantages/disadvantages of using #define?
+What are the advantages/disadvantages of using inline and const?
+What is the difference between a pointer and a reference?
+What are the differences between a struct and a class in C++?
+What is the difference between public, private, and protected access?
+For class CFoo { }; what default methods will the compiler generate for you>?
+How can you force the compiler to not generate them?
+What is the purpose of a constructor? Destructor?
+What is a constructor initializer list?
+When must you use a constructor initializer list?
+What is a: Constructor? Destructor? Default constructor? Copy constructor? Conversion constructor?
+What is the difference between public, private, and protected inheritance?
+What is virtual inheritance?
+What is placement new?
+What is the difference between operator new and the new operator?
+What's the difference between SQL, DDL, and DML?
+What's a join? An inner join? An outer join?
+Describe HTTP.
+What's a design pattern?
+Can you explain the singleton, vistor, facade, or handle class design pattern?
+Is the long term viability of the koala therefore threatened by genetic weakness?
+Is Korean the official language of Korea?
+Is valencia faster than walcott?
+Is Degea great dribbler than hart?
+Whose wages are more?
+Is rooney earning more than van persie?
+About how many Koreans speakers are there?
+Can I use CSV files?
+How do I perform CSV file conversion?
+How do I divide a dataset into training and test set?
+How do I generate compatible train and test sets that get processed with a filter?
+How do I perform attribute selection?
+How do I perform clustering?
+Where do I find visualization of classifiers, etc.?
+How do I perform text classification?
+How can I perform multi-instance learning in WEKA?
+How do I perform cost-sensitive classification?
+How do I make predictions with a trained model?
+Why am I missing certain nominal or string values from sparse instances?
+Can I use WEKA for time series analysis?
+Does WEKA support multi-label classification?
+How do I perform one-class classification?
+Can I make a screenshot of a plot or graph 
+Floods vs Tsunamis?
+Single sign-on vs multi sign-on?
+Which is better? Distributed or Grid Computing?
+Advantages of using Training set over untrained set?
+Using test set vs training set?
+How can I split paragraph into one-line-per-sentence but still keep it wrapped visually?
+Having one line sentence vs multiple line sentences?
+What were the most important wars fought in the history of the United States?
+What are you planning to buy today at the supermarket?
+How exactly did the fight between the two of you start?
+What is your favorite memory from childhood?
+How will you help the company if you are hired to work for us?
+What do you plan to do immediately following graduation from college?
+What types of decorations do you plan to have for your friend's birthday party?
+What was your high school experience like?
+How did you and your best friend meet?
+What sites do you expect to see on your vacation?
+Which is faster google or bing?
+Which is efficent than google? Bing or Mozzila?
+Compare Mozzila vs chrome?
+Compare Apple vs IBM.
+compare advantages of theory and practical experience.
+Raising parents vs children?
+Have you ever met Joe before?
+Where did you go to college?
+What is your best quality?
+Are you happy?
+Do you enjoy your car?
+Does your brother have the same interests as you?
+Do you have a pet?
+Do you like animals?
+When is your birthday?
+Do you like rain? 
+Which icecream do you like? Vanilla or Strawberry?
+WHich college do you like? UTD or UTA?
+WHich car do you like over Ferrari? Ford or Lamborgini?
+How do you handle stressful situations and working under pressure?
+Which is good mode of payment? Cheque or Cash?
+WHich is better ,Cash or DD?
+Which one is difficult to analyze ? opened or closed question ?? 
+what is the difference between vcal and vet?
+Do you like chocolate closed ended response or open ended response?
+Am I at the correct location?	
+Your pregnant. Yes or No?
+Are the keys under the books?Yes or No?
+Was his house on an island?	Yes or No?
+Is he alright?
+Were the demonstrations in the center of town? Yes or No?
+Undergrad students grading other undergrads: ethical, professional, or even legal?
+Handling a maze in JavaScript
+What single change would have given the most chance for the Axis to win World War 2?
+I solved their problem. Should I involve them?
+Is there a name for this type of polygon?
+What is the difference between booking and renting something?
+Why would PMCs be in politically-unstable places, as opposed to waiting in comfort to be called?
+What is the difference between buying and renting something?
+How to charge my Ubuntu phone's battery off my Ubuntu laptop's battery?
+Can I trust a paper that hides implementation details?
+Who created the version of Kilgrave in the Jessica Jones TV series?
+“Do miracles” or “Make miracles”?
+What if we lived near a boundary of the universe?
+How are aircraft identified as unregistered?
+How to overcome depression while digging in HUGE code?
+How many planets have we discovered that can support human life?
+can an electron gain energy by another electron?
+Can refusing to attend mandatory Title IX training be grounds for suspending a tenured faculty member?
+Find all three digit special numbers
+Why did Data want to be human instead of other species?
+Why invest for the long-term rather than buy and sell for quick, big gains?
+How to indicate that I've exceeded my planned spending for some time period, but am not completely lacking money
+Why not invest for the long-term rather than buy and sell for quick, big gains?
+What does the limit of the derivative induces?
+“Makeshift flamethrower” or “handmade flamethrower”?
+Finding contacts in Group A AND Group B?
+Has Christianity ever been given stats?
+If I quit my PhD, would it make my advisor look bad?
+Are there any non-human captains (and up) in Starfleet?
+How to persuade someone to not pursue a PhD just because they failed to find a job?
+Why didn't the Ewoks attempt to kill Leia?
+Why address-of operator ('&') can be used with objects that are declared with the register storage class specifier in C++?
+Pointers vs References comparison?
+Unable to Change Seats Due to Weight and Balance?
+Why is it bad to have traces close to the edge of the board?
+What should you do while driving?
+Which piece is powerful? Pawn or Knight?
+In chess which piece is used?
+Why it is called 'Black Friday'?
+Which statement is better?
+Ternary statement to be used over Binary statement.
+What is a flameout and how does it occur?
+How to store one to many relationship data in dynamodb?
+Which database is better than MongoDB?Teradata?
+Which is easy to use over MySQL? Oracle or MongoDB?
+Why does my conditional statement selectively drop the first character in the output string?
+Compare Interface vs Abstract Classes?
+Were learners satisfied in terms of convenience, comfort of the facilities and quality of presenters?
+Did learners feel that the amount of information and resource materials provided met their needs?
+Were learners satisfied with the program and feel it was a good use of their time?
+Were learners more confident in their ability to address the issues presented during the program?
+Will learners demonstrate increased knowledge related to the program content?
+Will learners be able to demonstrate a new skill by the end of the training program?
+Will learners report understanding of the impact communication skills have on patient outcomes?
+Will learners demonstrate effective communications skills in standardized clinical encounters?
+Will learners self-assess their strengths and weaknesses in real patient encounters?
+Will faculty role-model effective communication skills in clinical encounters?
+Will learners apply the communication skills model in real clinical encounters?
+Will patients report satisfaction with the communication skills of learners?
+Will learners report increased involvement of faculty as facilitators?
+Differentiate between Interface vs Abstract Classes.
+WHich is romantic place. Paris or Goa?
+Where do you think would be ideal place to stay? Chennai or Trichy?
+Apple watch vs samsung watch?
+Where do you like to travel? Switzerland or Portugal?
+Compare concepts of Abstraction and Inheritance?
+It is water under the bridge.
+Who has been the most important person in your life? Can you tell me about him or her?
+What was the happiest moment of your life? The saddest?
+Who has been the biggest influence on your life? What lessons did that person teach you?
+Who has been the kindest to you in your life?
+What are the most important lessons you’ve learned in life?
+What is your earliest memory?
+What is your favorite memory of me?
+Are there any funny stories your family tells about you that come to mind?
+Are there any funny stories or memories or characters from your life that you want to tell me about?
+What are you proudest of?
+When in life have you felt most alone?
+If you could hold on to one memory from your life forever, what would that be?
+How has your life been different than what you’d imagined?
+How would you like to be remembered?
+Do you have any regrets?
+What does your future hold?
+What are your hopes for what the future holds for me? For my children?
+If this was to be our very last conversation, is there anything you’d want to say to me
+For your great great grandchildren listening to this years from now: is there any wisdom you’d want to pass on to them? What would you want them to know?
+Is there anything that you’ve never told me but want to tell me now?
+Is there something about me that you’ve always wanted to know but have never asked?
+Do you remember what was going through your head when you first saw me?
+How did you choose my name?
+What was I like as a baby? As a young child?
+Do you remember any of the songs you used to sing to me? Can you sing them now?
+What were my siblings like?
+What were the hardest moments you had when I was growing up?
+If you could do everything again, would you raise me differently?
+What advice would you give me about raising my own kids?
+What are your dreams for me?
+How did you meet mom/dad?
+Are you proud of me?
+Which is peaceful city? San Francisco or Dallas?
+Where do you stay? Chennai or Bangalore?
+Which is nice song? One direction or Last Resort?
+Which Hindi song is difficult to understand? Lovely or Baby Doll song?
+Is it better to store soft copy than hard copy?
+What are you looking for in terms of career development? knowledge or experience?
+Which is valuable skill to learn? Cooking or spending?
+How do you want to improve yourself in the next year?
+What kind of goals would you have in mind if you got this job? 
+If I were to ask your last supervisor to provide you additional training or exposure, what would she suggest
+If you had to choose one, would you consider yourself a big-picture person or a detail-oriented person?  
+Tell me about your proudest achievement.  
+Who was your favorite manager and why?  
+What do you look for in terms of culture -- structured or entrepreneurial?
