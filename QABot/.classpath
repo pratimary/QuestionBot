@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/RahulAravind/Desktop/Books/Natural Language processing/Project/Tools/stanford-postagger-2015-04-20/stanford-postagger-2015-04-20/stanford-postagger.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RahulAravind/Downloads/jaws-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RahulAravind/Desktop/Books/Natural Language processing/Project/Tools/stanford-corenlp-full-2015-04-20/stanford-corenlp-full-2015-04-20/joda-time.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RahulAravind/Desktop/Books/Natural Language processing/Project/Tools/stanford-corenlp-full-2015-04-20/stanford-corenlp-full-2015-04-20/stanford-corenlp-3.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RahulAravind/Desktop/Books/Natural Language processing/Project/Tools/stanford-corenlp-full-2015-04-20/stanford-corenlp-full-2015-04-20/stanford-corenlp-3.5.2-models.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RahulAravind/Desktop/Books/Natural Language processing/Project/Tools/stanford-corenlp-full-2015-04-20/stanford-corenlp-full-2015-04-20/xom.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RahulAravind/Desktop/Books/Natural Language processing/Project/Tools/stanford-corenlp-full-2015-04-20/stanford-corenlp-full-2015-04-20/ejml-0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RahulAravind/Desktop/Books/Natural Language processing/Project/Tools/stanford-corenlp-full-2015-04-20/stanford-corenlp-full-2015-04-20/joda-time-2.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RahulAravind/Desktop/Books/Natural Language processing/Project/Tools/stanford-corenlp-full-2015-04-20/stanford-corenlp-full-2015-04-20/jollyday.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RahulAravind/Desktop/Books/Natural Language processing/Project/Tools/stanford-corenlp-full-2015-04-20/stanford-corenlp-full-2015-04-20/jollyday-0.4.7-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RahulAravind/Desktop/Books/Natural Language processing/Project/Tools/stanford-corenlp-full-2015-04-20/stanford-corenlp-full-2015-04-20/protobuf.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RahulAravind/Desktop/Books/Natural Language processing/Project/Tools/stanford-corenlp-full-2015-04-20/stanford-corenlp-full-2015-04-20/stanford-corenlp-3.5.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RahulAravind/Desktop/Books/Natural Language processing/Project/Tools/stanford-corenlp-full-2015-04-20/stanford-corenlp-full-2015-04-20/stanford-corenlp-3.5.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RahulAravind/Desktop/Books/Natural Language processing/Project/Tools/stanford-corenlp-full-2015-04-20/stanford-corenlp-full-2015-04-20/xom-1.2.10-src.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RahulAravind/Desktop/Books/Natural Language processing/Project/Tools/httpcomponents-client-4.5.1-bin/httpcomponents-client-4.5.1/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RahulAravind/Desktop/Books/Natural Language processing/Project/Tools/httpcomponents-client-4.5.1-bin/httpcomponents-client-4.5.1/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RahulAravind/Desktop/Books/Natural Language processing/Project/Tools/httpcomponents-client-4.5.1-bin/httpcomponents-client-4.5.1/lib/fluent-hc-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RahulAravind/Desktop/Books/Natural Language processing/Project/Tools/httpcomponents-client-4.5.1-bin/httpcomponents-client-4.5.1/lib/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RahulAravind/Desktop/Books/Natural Language processing/Project/Tools/httpcomponents-client-4.5.1-bin/httpcomponents-client-4.5.1/lib/httpclient-cache-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RahulAravind/Desktop/Books/Natural Language processing/Project/Tools/httpcomponents-client-4.5.1-bin/httpcomponents-client-4.5.1/lib/httpclient-win-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RahulAravind/Desktop/Books/Natural Language processing/Project/Tools/httpcomponents-client-4.5.1-bin/httpcomponents-client-4.5.1/lib/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RahulAravind/Desktop/Books/Natural Language processing/Project/Tools/httpcomponents-client-4.5.1-bin/httpcomponents-client-4.5.1/lib/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RahulAravind/Desktop/Books/Natural Language processing/Project/Tools/httpcomponents-client-4.5.1-bin/httpcomponents-client-4.5.1/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RahulAravind/Desktop/Books/Natural Language processing/Project/Tools/httpcomponents-client-4.5.1-bin/httpcomponents-client-4.5.1/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RahulAravind/Desktop/Books/Natural Language processing/Project/Tools/gson-2.2.2.jar/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RahulAravind/Desktop/Books/Natural Language processing/Project/Tools/commons-lang3-3.4-bin/commons-lang3-3.4/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RahulAravind/Desktop/Books/Natural Language processing/Project/Tools/commons-lang3-3.4-bin/commons-lang3-3.4/commons-lang3-3.4-javadoc.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

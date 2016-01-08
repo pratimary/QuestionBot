@@ -1,0 +1,238 @@
+dell_hp_11
+algorithms_machine learning_1
+while_loop_1
+iu_ivy league_2
+glucose_atp_2
+thread_string_2
+tide_gain_2
+metal_wood platform bed_2
+white_pink walls_2
+google play_play store_3
+dell_alienware_2
+somu_ramu_4
+ferrari_lamborgini_2
+boys_girls_2
+cats_dogs_2
+naughty boys_girls_1
+c++_java_2
+datastructures_algorithms_1
+andriod_ios_3
+rahman songs_ilayaraja songs_1
+david guetta_david beckam_1
+sony_beats headphones_1
+chennai_madurai_1
+chicago_boston_2
+newyork_california_1
+t-rex_velociraptor_1
+apple_lenova laptops_1
+leopard_other members_1
+christmas_thanksgiving_1
+eclipse_idea_1
+member_friend function_1
+classes_interfaces_1
+windows os_ios_1
+windows os_andriod_1
+single linkedlist_double linkedlist_1
+maximum depth_height_1
+r.t_o_1
+lrad_martin garrix songs_1
+winner tree_binary heap_1
+assignments_exams_1
+hard copy_soft copy_1
+list_array_1
+interpolation search_binary search_1
+elements_n/k times_1
+kabul_kaaabul_1
+j2ee_java_1
+efficient union_intersection_1
+coding_logical thinking_1
+messi_suarez_1
+ronaldo_messi_1
+neymar_suarex_1
+ronaldo_rooney_1
+sqrt_math_1
+java_python_1
+statement_block_1
+break_statement_1
+variable definition_variable declaration_1
+printf_scanf_1
+parameter passing_call-by-reference_1
+operators_|_1
+contrast c_c++_1
+cin_cout_1
+c++ struct_c++ class_1
+copy constructor_overloaded assignment operator_1
+c++ enum_c++ class_1
+shallow copy_deep copy_1
+c_c++_4
+pointer_reference_1
+struct_class_1
+operator_new operator_1
+ddl_dml_1
+facade_class design pattern_1
+valencia_walcott_1
+rooney_van persie_1
+floods_tsunamis_1
+single sign-on_multi_1
+test set_training_1
+line sentence_multiple line sentences_1
+google_bing_1
+bing_mozzila_1
+mozzila_chrome_1
+apple_ibm_1
+theory_practical experience_1
+raising parents_children_1
+vanilla_strawberry_1
+utd_uta_1
+ford_lamborgini_1
+cheque_cash_1
+cash_dd_1
+one_question_1
+miracles_make miracles_1
+time period_money_1
+makeshift flamethrower_handmade flamethrower_1
+pointers_references_1
+pawn_knight_1
+database_mongodb_1
+oracle_mongodb_1
+interface_abstract classes_2
+learners_ability_1
+paris_goa_1
+chennai_trichy_1
+apple_watch_1
+switzerland_portugal_1
+abstraction_inheritance_1
+funny stories_memories_1
+san francisco_dallas_1
+chennai_bangalore_1
+direction_last resort_1
+hindi song_baby doll song_1
+knowledge_experience_1
+cooking_spending_1
+additional training_exposure_1
+big-picture person_detail-oriented person_1
+colour_shape_1
+calvin jr._john coolidge_1
+france_britan_1
+chess_cricket_1
+crysis_witcher hunt_1
+india_china_1
+australia_us_1
+brown bear_eurasian lynx_1
+hindi_english_1
+arsenal_manchester united_1
+domestic dog_street dog_1
+vodka_rum_1
+world war 1_world war 2_1
+fordgt_lamborgini_1
+bolt_john_1
+cheetah_deer_1
+english_spanish_1
+other objects_activities_1
+phone_laptops_1
+apple_oranges_1
+phone_houses_1
+males_females_1
+result_organizations_1
+few algorithms_secure session_1
+hardware_software implementations_1
+symmetric key_rsa key size_1
+c++_python_1
+ford_apple_1
+gta game_witcher game_1
+usage_sayanora_1
+hadoop_spark features_1
+consonants_influence_1
+london_us_1
+kabol_kaabul_1
+whale_shark_1
+blue whale size_seal size_1
+blue whale_tiger shark_1
+run_sleep_1
+lion_tiger_2
+animals_birds_1
+violin_veena_1
+hindi_tamil_1
+recursion_iteration_2
+belgium_uk_1
+hindi_arabic_1
+homophones_homographs_1
+gifts_entertainment_1
+bribe_tip_1
+documents_files_1
+wine_year_1
+ramy_shamy_1
+morning_evening_1
+afternoon_night_1
+dallas_arlington_1
+dragon_dragonflies_2
+football_volleyball_1
+football_basketball_1
+b_tree_1
+battente_classical guitar_1
+ror_python_1
+sacrifice_pain_1
+sushi_pizzas_1
+burgers_pizzas_1
+lebron_kobe bryant_1
+default constructor_copy constructor_1
+virtual functions_runtime polymorphism_1
+paul_john_1
+maggi_top raman_1
+burgesses_town hall meetings_1
+guitar_violin_1
+cia_us marshall_1
+high school senior_graduate photos_1
+sad endings_happy ones_1
+poem_short story_1
+duke_baron_1
+kennedy_soviet premier_1
+twillight_lord_1
+hidatsa indians_shoshone indians_1
+artist brushes_hardware store brushes_1
+mens_womens_1
+cheap makeup_expensive makeup_1
+days_yesterday_1
+brown eyes_blue eyes_1
+leggings_yoga pants_1
+yoga pants_tight skirt_1
+land_blueprints_1
+rbs group_rbs shares_1
+us money order_money order_1
+porn star_cop_2
+business loan_credit_1
+think_account_1
+balance_initial principal_1
+check_cash money_1
+me262_p51_1
+rmz 250_i_1
+sundown audio x_kicker l7_1
+monoblock_channel amp_1
+hatchback_coupe_1
+lamboghini aventador_ferrari 458 italia_1
+porsche pdk_ferrari transmission_1
+chevy_explorer_1
+europe_subways_1
+turbocharger_supercharger_1
+drz 400sm_husqvarna te 449_1
+300cc_600cc street bike_1
+flagship iphone 5s_samsung galaxy note 3_1
+cpu_video card_1
+java class_nudge_1
+gaming_normal pc_1
+ipad mini_ipad air_1
+intel core2 quad q9505_amd fx 6300_1
+gaming_tier_1
+vents_fan_1
+mobile screen size_right resolution wallpapers_1
+notebook_laptop_1
+mac book air_windows tablet_1
+wi-fi_lan_1
+urbeats_urbeats se_1
+ipod_hours_1
+ps4_xbox one_1
+xbox 1_ps4_1
+contrast_brightness_1
+smartphone_htc android_1
+service provider_phone_1
+red 5mw green 5mw_purple/blue 5mw_1

@@ -1,0 +1,2074 @@
+Dell versus HP?
+Dell versus HP, need help?
+Which subject do you prefer over Database? Algorithms or Machine Learning?
+Compare the currency of dollar with rupee.
+Did John Adams represent the Continental Congress in Europe?
+What was Adams' political party?
+List the differences between while and do while loop.
+Differentiate between for and while loop.
+Where do joeys complete postnatal development?what is your name?
+Colleges better than IU but worse than Ivy League?
+Dell or HP, help?
+In terms of energy, what is the difference between glucose and ATP?
+What kind of thread or string do I use when hand tying a denim quilt? // wh question
+Which laundry detergent is better? Tide or Gain? Which do you prefer?
+should i get a metal or wood platform bed?
+White or pink walls for my bedroom?
+do you want dinner?
+do you want more soup?
+Is it a better experience to have a dog as a child or as an adult?
+Which names sound better?  - Non-Comparative
+What would be a better bank? - Non_comparative
+What's the difference between Google Play and Play Store?
+Difference between dell and HP for gaming?
+compare dell and hp for gaming?
+which is the least favorable feature among all?
+is Dell better than HP?
+would you prefer sleeping?
+is Dell more reliable than alienware?
+Who is the laziest fellow on earth?
+What happened in 1896?
+1365 vs 8796
+Is Ramu better than Somu?
+Is Somu better than Ramu?
+Do they prefer forested areas?
+Which laptops you prefer over Alienware?
+Ferrari Vs Lamborgini?
+boys vs girls
+What part of an elephant is very important for temperature regulation?
+Were the treaties signed in 1947 and 1948 with the Ukraine?
+Is Finnish a member of the Baltic-Finnic subgroup of the Uralic languages?
+In what year were the "Games of the XV Olympiad" held?
+Are Canada 's two official languages English and French ?
+Is it the world 's second largest country by total area?
+Do all ducks "quack"?
+Who is Daffy Duck?
+Which is better? cats or dogs?
+What economic uses to ducks have?
+How does a Mallard's tongue work?
+Naughty boys vs girls!
+Compare Java and C++.
+Difference between Datastructures and Algorithms.
+What would be a better bank? - Non_comparative
+Was Amedeo Avogadro born in Turin August 9th 1776 to a noble ancient family of Piedmont, Italy?
+What's the difference between Google Play and Play Store?
+Which is better Andriod or IOS?
+Difference between dell and HP for gaming?
+What is Jakarta?
+Rahman songs vs ilayaraja songs?
+Has Indonesia the world 's largest Muslim population ?
+David Guetta vs David Beckam?
+Who was, by later reports of his contemporaries, thoroughly unhappy with the work?
+Compare Sony and Beats headphones.
+Which city is better, chennai or madurai?
+What quartered on March?
+Who do you think would win between Nadal and Federer?
+What is the first word on the page?
+What is the third word on the page?
+What did James Monroe do before being elected governor?
+When did James Monroe introduce the Monroe Doctrine?
+Sample program in Scala and R languages.
+Boston vs Chicago.
+Where is life style of people better? Newyork or California?
+Is a kangaroo a reptile?
+What are some extinct predators of the kangaroo?
+What is a roo?
+Compare features of T-rex and Velociraptor.
+List the configurations of Alienware.
+Compare the features of Apple and Lenova laptops.
+Is the leopard smaller than the other members of Panthera?
+What shape are a leopard's black rosettes in East Africa?
+Is the black color heritable and caused by only one recessive gene locus ?
+Which holidays do you like more, Christmas or thanksgiving?
+What is the difference between Eclipse and IDEA?
+Can we call an undeclared function in C++?
+Can we access global variable if there is a local variable with same name?
+Can we use function on left side of an expression in C and C++?
+Can namespaces be nested in C++?
+Can we access private data members of a class without using a member or a friend function?
+How to make a C++ class whose objects can only be dynamically allocated?
+How to print “GeeksforGeeks” with empty main() in C++?
+Print 1 to 100 in C++, without loop and recursion
+How to restrict dynamic allocation of objects in C++?
+Elaborate Arrays in Java.
+How to compare two arrays in Java?
+Explain Final arrays in Java.
+Comparison of Exception Handling in C++ and Java?
+Catching base and derived classes as exceptions?
+Checked vs Unchecked Exceptions in Java?
+List Access specifier of methods in interfaces.
+Differentiate Access specifiers for classes or interfaces in Java.
+What are Abstract Classes in Java?
+Compare two strings represented as linked lists.
+Rearrange a given linked list in-place. Is it possible?
+Sort a linked list that is sorted alternating ascending and descending orders?
+Construct a Maximum Sum Linked List out of two Sorted Linked Lists having some Common nodes.
+Find k closest elements to a given value
+Sort n numbers in range from 0 to n^2 – 1 in linear time
+A Problem in Many Binary Search Implementations
+Search in an almost sorted array
+Sort an array in wave form
+Why is Binary Search preferred over Ternary Search?
+Do Insertion Sort for Singly Linked List.
+Why Quick Sort preferred for Arrays and Merge Sort for Linked Lists?
+How to check if two given line segments intersect?
+How to check if a given point lies inside or outside a polygon?
+Calculate the angle between hour hand and minute hand
+Count number of binary strings without consecutive 1?s
+Find the smallest number whose digits multiply to a given number n
+Draw a circle without floating point arithmetic
+How to check if an instance of 8 puzzle is solvable?
+Given n appointments, find all conflicting appointments
+Check a given sentence for a given set of simple grammer rules
+Find Index of 0 to be replaced with 1 to get longest continuous sequence of 1s in a binary array
+How to check if two given sets are disjoint?
+Compare Andriod vs IOS.
+Compare Windows OS vs IOS.
+Compare Windows OS and Andriod?
+Apples and oranges are same. Is that correct?
+Is merge sort efficient than Shell sort?
+Write a function that returns 2 for input 1 and returns 1 for 2.
+Connect n ropes with minimum cost.
+Find the number of valid parentheses expressions of given length.
+Generate all binary permutations such that there are more 1’s than 0’s at every point in all permutations.
+Write a function that counts the number of times a given int occurs in a Linked List
+Reverse a linked list
+Detect loop in a linked list
+Function to check if a singly linked list is palindrome
+Given a linked list which is sorted, how will you insert in sorted way
+Intersection point of two Linked Lists.
+Recursive function to print reverse of a Linked List
+Remove duplicates from a sorted linked list
+Remove duplicates from an unsorted linked list
+Pairwise swap elements of a given linked list
+Practice questions for Linked List and Recursion
+Move last element to front of a given Linked List
+Compare Single LinkedList vs Double LinkedList in Run time complexity.
+Implement Queue using Stacks
+Check whether a given Binary Tree is Complete or not
+Determine if Two Trees are Identical
+Maximum Depth or Height of a Tree
+Write a C program to Delete a Tree.
+Write an Efficient C Function to Convert a Binary Tree into its Mirror Tree
+If you are given two traversal sequences, can you construct the binary tree?
+Given a binary tree, print out all of its root-to-leaf paths one per line.
+How to determine if a binary tree is height-balanced?
+Which algorithm is efficient?
+Is O(n) R.T better than O(n!)?
+Print unique rows in a given boolean matrix
+How to Implement Reverse DNS Look Up Cache?
+How to Implement Forward DNS Look Up Cache?
+Implement LRU Cache
+Sort numbers stored on different machines
+Find the k most frequent words from a file
+Given a sequence of words, print all anagrams together
+Elaborate about trie.
+Which data structure is efficient for duplicate removal, Hashing or Sorting?
+Linear probing vs quadratic probing?
+Compare LRAD and Martin Garrix songs.
+Differentiate between Tournament Tree (Winner Tree) and Binary Heap
+Decision Trees – Fake (Counterfeit) Coin Puzzle (12 Coin Puzzle)
+Spaghetti Stack
+Data Structure for Dictionary and Spell Checker?
+Merge an array of size n into another array of size m+n
+Median of two sorted arrays
+Write a program to reverse an array
+Program for array rotation
+Reversal algorithm for array rotation
+Block swap algorithm for array rotation
+Which is bigger. 6 or 7?
+What has more weightage, assignments or exams?
+Which is faster to submit , hard copy or soft copy?
+Which place is cheaper the stay, chicago or boston?
+Who is faster than usain bolt?
+Who is mass than pandi?
+Union and Intersection of two sorted arrays
+Floor and Ceiling in a sorted array
+A Product Array Puzzle
+How do you segregate Even and Odd numbers
+Find the two repeating elements in a given array
+Sort an array of 0s, 1s and 2s
+Find the Minimum length Unsorted Subarray, sorting which makes the complete array sorted
+Find duplicates in O(n) time and O(1) extra space
+Equilibrium index of an array
+Linked List vs Array
+Which sorting algorithm makes minimum number of memory writes?
+Turn an image by 90 degree
+Next Greater Element
+Count the number of occurrences in a sorted array
+Interpolation search vs Binary search
+Linear Search vs Binary Search.
+Hashing vs Nested Hashing.
+Find a Fixed Point in a given array
+Maximum Length Bitonic Subarray
+Find the maximum element in an array which is first increasing and then decreasing
+Count smaller elements on right side
+Minimum number of jumps to reach end
+Implement two stacks in an array
+Find subarray with given sum
+Find a sorted subsequence of size 3 in linear time
+Largest subarray with equal number of 0s and 1s
+Dynamic Programming | Set 18 (Partition problem)
+Maximum Product Subarray
+Find a pair with the given difference
+Replace every element with the next greatest
+Print all possible combinations of r elements in a given array of size n
+Given an array of of size n and a number k, find all elements that appear more than n/k times
+Find the point where a monotonically increasing function becomes positive first time
+Find the Increasing subsequence of length three with maximum product
+Product of which twi numbers would give highest value, -9 or -8?
+Which is bigger than 7? 8 or 6?
+Who is better coder than VP?
+Who is better coder than VP? Kabul or Kaaabul?
+Find the closest pair from two sorted arrays
+Given a sorted array and a number x, find the pair in array whose sum is closest to x
+Count 1’s in a sorted binary array
+Print All Distinct Elements of a given integer array
+Construct an array from its pair-sum array
+Find common elements in three sorted arrays
+Find the first repeating element in an array of integers
+What is advantage of sorted arrays?
+J2EE vs Java?
+Which do you prefer over Hot chocolate? Coffee?
+Can QuickSort be implemented in O(nLogn) worst case time complexity?
+Check if a given array contains duplicate elements within k distance from each other
+Find the element that appears once.
+Which is efficient union or intersection?
+Who is better? left or right?
+Given an n x n square matrix, find sum of all sub-squares of size k x k
+Count number of islands where every island is row-wise and column-wise separated
+Find a common element in all rows of a given row-wise sorted matrix
+Given a matrix of ‘O’ and ‘X’, replace ‘O’ with ‘X’ if surrounded by ‘X’
+What is quicker than cheetah?
+Which is better than programming? Coding or Logical thinking?
+what is the probability that they don't collide?
+Which chances are high to occur?
+Who is better than Ronaldo? Messi or Suarez?
+Ronaldo or Messi?
+Neymar or Suarex in barcelona?
+WHose the best football player?
+WHose the best football player? Ronaldo or Rooney?
+how would you cut the remainder of the cake into two equal halves with one straight cut of a knife ?
+give an efficient algorithm to reverse the order of the words (not characters) in it.
+How many points are there on the globe where by walking one mile south, one mile east and one mile north you reach the place where you started?
+Which place is better to stay north or south?
+Which place is better to stay east or south?
+Which place is better to stay west or south?
+WHich function is better sqrt or math?
+Which language do you prefer to find square root?java or python?
+In arithmetic expressions, to what data type will the C compiler promote a character?
+What is the difference between a statement and a block?
+Specify a C loop with the test at the bottom.
+What is the switch statement?
+What does a break statement do? Which control structures use it?
+In a loop, what is the difference between a break and continue statement?
+Where may variables be defined in C?
+What is the difference between a variable definition and a variable declaration?
+What is the purpose of a function prototype?
+List C's storage classes and what they signify.
+State the syntax for the printf() and scanf() functions. State their one crucial difference with respect to their parameters.
+With respect to function parameter passing, what is the difference between call-by-value and call-by-reference? Which method does C use?
+What is a structure and a union in C?
+What is the difference between: #include <stdio.h> and #include "stdio.h"
+What is #ifdef used for?
+How do you define a constant in C?
+Why can't you nest structure definitions?
+Can you nest function definitions?
+What is a forward reference?
+What are the following and how do they differ: int, long, float and double?
+Is it possible to take the square-root of a number in C. Is there a square-root operator in C?
+Using fprintf() print a single floating point number right-justified in a field of 20 spaces, no leading zeros, and 4 decimal places. The destination should be stderr and the variable is called num.
+What is the difference between the & and && operators and the | and || operators?
+What is the difference between the -> and . operators?
+What is the symbol for the modulus operator?
+In C++ what is a constructor? A destructor?
+Compare and contrast C and C++.
+What is operator overloading?
+Differentiate cin and cout?
+Contrast procedural and object oriented programming.
+How do you link a C++ program to C functions?
+Explain the scope resolution operator.
+What are the differences between a C++ struct and C++ class?
+What is the difference between a copy constructor and an overloaded assignment operator?
+When should you use multiple inheritance?
+What is a virtual destructor?
+Explain the ISA and HASA class relationships. How would you implement each in a class design?
+What are the differences between a C++ enum and C++ class?
+What do the keyword static and const signify ?
+How is memory allocated/deallocated in C ? How about C++ ?
+What is UML ?
+What is the difference between a shallow copy and a deep copy ?
+What are the differences between new and malloc?
+What is the difference between delete and delete[]?
+What are the differences between a struct in C and in C++?
+What are the advantages/disadvantages of using #define?
+What are the advantages/disadvantages of using inline and const?
+What is the difference between a pointer and a reference?
+What are the differences between a struct and a class in C++?
+What is the difference between public, private, and protected access?
+For class CFoo { }; what default methods will the compiler generate for you>?
+How can you force the compiler to not generate them?
+What is the purpose of a constructor? Destructor?
+What is a constructor initializer list?
+When must you use a constructor initializer list?
+What is a: Constructor? Destructor? Default constructor? Copy constructor? Conversion constructor?
+What is the difference between public, private, and protected inheritance?
+What is virtual inheritance?
+What is placement new?
+What is the difference between operator new and the new operator?
+What's the difference between SQL, DDL, and DML?
+What's a join? An inner join? An outer join?
+Describe HTTP.
+What's a design pattern?
+Can you explain the singleton, vistor, facade, or handle class design pattern?
+Is the long term viability of the koala therefore threatened by genetic weakness?
+Is Korean the official language of Korea?
+Is valencia faster than walcott?
+Is Degea great dribbler than hart?
+Whose wages are more?
+Is rooney earning more than van persie?
+About how many Koreans speakers are there?
+Can I use CSV files?
+How do I perform CSV file conversion?
+How do I divide a dataset into training and test set?
+How do I generate compatible train and test sets that get processed with a filter?
+How do I perform attribute selection?
+How do I perform clustering?
+Where do I find visualization of classifiers, etc.?
+How do I perform text classification?
+How can I perform multi-instance learning in WEKA?
+How do I perform cost-sensitive classification?
+How do I make predictions with a trained model?
+Why am I missing certain nominal or string values from sparse instances?
+Can I use WEKA for time series analysis?
+Does WEKA support multi-label classification?
+How do I perform one-class classification?
+Can I make a screenshot of a plot or graph 
+Floods vs Tsunamis?
+Single sign-on vs multi sign-on?
+Which is better? Distributed or Grid Computing?
+Advantages of using Training set over untrained set?
+Using test set vs training set?
+How can I split paragraph into one-line-per-sentence but still keep it wrapped visually?
+Having one line sentence vs multiple line sentences?
+What were the most important wars fought in the history of the United States?
+What are you planning to buy today at the supermarket?
+How exactly did the fight between the two of you start?
+What is your favorite memory from childhood?
+How will you help the company if you are hired to work for us?
+What do you plan to do immediately following graduation from college?
+What types of decorations do you plan to have for your friend's birthday party?
+What was your high school experience like?
+How did you and your best friend meet?
+What sites do you expect to see on your vacation?
+Which is faster google or bing?
+Which is efficent than google? Bing or Mozzila?
+Compare Mozzila vs chrome?
+Compare Apple vs IBM.
+compare advantages of theory and practical experience.
+Raising parents vs children?
+Have you ever met Joe before?
+Where did you go to college?
+What is your best quality?
+Are you happy?
+Do you enjoy your car?
+Does your brother have the same interests as you?
+Do you have a pet?
+Do you like animals?
+When is your birthday?
+Do you like rain? 
+Which icecream do you like? Vanilla or Strawberry?
+WHich college do you like? UTD or UTA?
+WHich car do you like over Ferrari? Ford or Lamborgini?
+How do you handle stressful situations and working under pressure?
+Which is good mode of payment? Cheque or Cash?
+WHich is better ,Cash or DD?
+Which one is difficult to analyze ? opened or closed question ?? 
+what is the difference between vcal and vet?
+Do you like chocolate closed ended response or open ended response?
+Am I at the correct location?	
+Your pregnant. Yes or No?
+Are the keys under the books?Yes or No?
+Was his house on an island?	Yes or No?
+Is he alright?
+Were the demonstrations in the center of town? Yes or No?
+Undergrad students grading other undergrads: ethical, professional, or even legal?
+Handling a maze in JavaScript
+What single change would have given the most chance for the Axis to win World War 2?
+I solved their problem. Should I involve them?
+Is there a name for this type of polygon?
+What is the difference between booking and renting something?
+Why would PMCs be in politically-unstable places, as opposed to waiting in comfort to be called?
+What is the difference between buying and renting something?
+How to charge my Ubuntu phone's battery off my Ubuntu laptop's battery?
+Can I trust a paper that hides implementation details?
+Who created the version of Kilgrave in the Jessica Jones TV series?
+“Do miracles” or “Make miracles”?
+What if we lived near a boundary of the universe?
+How are aircraft identified as unregistered?
+How to overcome depression while digging in HUGE code?
+How many planets have we discovered that can support human life?
+can an electron gain energy by another electron?
+Can refusing to attend mandatory Title IX training be grounds for suspending a tenured faculty member?
+Find all three digit special numbers
+Why did Data want to be human instead of other species?
+Why invest for the long-term rather than buy and sell for quick, big gains?
+How to indicate that I've exceeded my planned spending for some time period, but am not completely lacking money
+Why not invest for the long-term rather than buy and sell for quick, big gains?
+What does the limit of the derivative induces?
+“Makeshift flamethrower” or “handmade flamethrower”?
+Finding contacts in Group A AND Group B?
+Has Christianity ever been given stats?
+If I quit my PhD, would it make my advisor look bad?
+Are there any non-human captains (and up) in Starfleet?
+How to persuade someone to not pursue a PhD just because they failed to find a job?
+Why didn't the Ewoks attempt to kill Leia?
+Why address-of operator ('&') can be used with objects that are declared with the register storage class specifier in C++?
+Pointers vs References comparison?
+Unable to Change Seats Due to Weight and Balance?
+Why is it bad to have traces close to the edge of the board?
+What should you do while driving?
+Which piece is powerful? Pawn or Knight?
+In chess which piece is used?
+Why it is called 'Black Friday'?
+Which statement is better?
+Ternary statement to be used over Binary statement.
+What is a flameout and how does it occur?
+How to store one to many relationship data in dynamodb?
+Which database is better than MongoDB?Teradata?
+Which is easy to use over MySQL? Oracle or MongoDB?
+Why does my conditional statement selectively drop the first character in the output string?
+Compare Interface vs Abstract Classes?
+Were learners satisfied in terms of convenience, comfort of the facilities and quality of presenters?
+Did learners feel that the amount of information and resource materials provided met their needs?
+Were learners satisfied with the program and feel it was a good use of their time?
+Were learners more confident in their ability to address the issues presented during the program?
+Will learners demonstrate increased knowledge related to the program content?
+Will learners be able to demonstrate a new skill by the end of the training program?
+Will learners report understanding of the impact communication skills have on patient outcomes?
+Will learners demonstrate effective communications skills in standardized clinical encounters?
+Will learners self-assess their strengths and weaknesses in real patient encounters?
+Will faculty role-model effective communication skills in clinical encounters?
+Will learners apply the communication skills model in real clinical encounters?
+Will patients report satisfaction with the communication skills of learners?
+Will learners report increased involvement of faculty as facilitators?
+Differentiate between Interface vs Abstract Classes.
+WHich is romantic place. Paris or Goa?
+Where do you think would be ideal place to stay? Chennai or Trichy?
+Apple watch vs samsung watch?
+Where do you like to travel? Switzerland or Portugal?
+Compare concepts of Abstraction and Inheritance?
+It is water under the bridge.
+Who has been the most important person in your life? Can you tell me about him or her?
+What was the happiest moment of your life? The saddest?
+Who has been the biggest influence on your life? What lessons did that person teach you?
+Who has been the kindest to you in your life?
+What are the most important lessons you’ve learned in life?
+What is your earliest memory?
+What is your favorite memory of me?
+Are there any funny stories your family tells about you that come to mind?
+Are there any funny stories or memories or characters from your life that you want to tell me about?
+What are you proudest of?
+When in life have you felt most alone?
+If you could hold on to one memory from your life forever, what would that be?
+How has your life been different than what you’d imagined?
+How would you like to be remembered?
+Do you have any regrets?
+What does your future hold?
+What are your hopes for what the future holds for me? For my children?
+If this was to be our very last conversation, is there anything you’d want to say to me
+For your great great grandchildren listening to this years from now: is there any wisdom you’d want to pass on to them? What would you want them to know?
+Is there anything that you’ve never told me but want to tell me now?
+Is there something about me that you’ve always wanted to know but have never asked?
+Do you remember what was going through your head when you first saw me?
+How did you choose my name?
+What was I like as a baby? As a young child?
+Do you remember any of the songs you used to sing to me? Can you sing them now?
+What were my siblings like?
+What were the hardest moments you had when I was growing up?
+If you could do everything again, would you raise me differently?
+What advice would you give me about raising my own kids?
+What are your dreams for me?
+How did you meet mom/dad?
+Are you proud of me?
+Which is peaceful city? San Francisco or Dallas?
+Where do you stay? Chennai or Bangalore?
+Which is nice song? One direction or Last Resort?
+Which Hindi song is difficult to understand? Lovely or Baby Doll song?
+Is it better to store soft copy than hard copy?
+What are you looking for in terms of career development? knowledge or experience?
+Which is valuable skill to learn? Cooking or spending?
+How do you want to improve yourself in the next year?
+What kind of goals would you have in mind if you got this job? 
+If I were to ask your last supervisor to provide you additional training or exposure, what would she suggest
+If you had to choose one, would you consider yourself a big-picture person or a detail-oriented person?  
+Tell me about your proudest achievement.  
+Who was your favorite manager and why?  
+What do you look for in terms of culture -- structured or entrepreneurial?
+Was Abraham Lincoln the sixteenth President of the United States?
+Did Lincoln sign the National Banking Act of 1863?
+what is your name?
+Did his mother die of pneumonia?
+How many long was Lincoln's formal education?
+Colleges better than IU but worse than Ivy League?
+Dell or HP, help?
+When did Lincoln begin his political career?
+What did The Legal Tender Act of 1862 establish?
+When did the Gettysburg address argue that America was born?
+In terms of energy, what is the difference between glucose and ATP?
+When did the Gettysburg address argue that America was born?
+What kind of thread or string do I use when hand tying a denim quilt? // wh question
+Who assassinated Lincoln?
+Is it true that volta entered retirement in spain?
+Which laundry detergent is better? Tide or Gain? Which do you prefer?
+What did Alessandro Volta publish in 1800?
+should i get a metal or wood platform bed?
+White or pink walls for my bedroom?
+Is the electrolyte sulphuric acid?
+What happened with $ its invention?
+do you want dinner?
+do you want more soup?
+Is it a better experience to have a dog as a child or as an adult?
+Which names sound better?  - Non-Comparative
+When did he publish another memoria?
+When did he become a professor?
+Was Lorenzo Romano Amedeo Carlo Avogadro an Italian savant?
+What would be a better bank? - Non_comparative
+Was Amedeo Avogadro born in Turin August 9th 1776 to a noble ancient family of Piedmont, Italy?
+What's the difference between Google Play and Play Store?
+Which is better Andriod or IOS?
+Difference between dell and HP for gaming?
+Who confirm that he sponsored and helped some Sardinian plotters who were organising a revolution in that island , stopped at the very last moment by the concession of Charles Albert 's statute ?
+Is it approximately 6.0221415 10 23 ?
+Can the title of this famous 1811 paper be roughly translated into english?
+Is the Celsius crater on the Moon named after him ?
+Are beetles insects?
+What are the three sections of a beetle?
+Which defense mechanism uses colour or shape to deceive potential enemies?
+Which type of beetle is a pest of potato plants?
+How can beetle larvae be differentiated from other insect larvae?
+How many species of beetles are there?
+Do carrion beetles eat dung?
+Oxygen is what?
+compare dell and hp for gaming?
+which is the least favorable feature among all?
+May a single female lay from several dozen to several thousand eggs during her lifetime ?
+Was Calvin Coolidge the twenty-ninth vice president?
+Did Coolidge graduate from Black River Academy?
+When did Coolidge meet and marry Grace Anna Goodhue?
+What did Coolidge do after graduating from Amherst?
+Who appointed Harlan Fiske Stone to the Supreme Court?
+Is Calvin Jr. older than John Coolidge?
+Did Coolidge meet and marry Grace Anna Goodhue?
+Why did Coolidge not attend law school?
+What to be born on the fourth of July?
+What do well - received and he have in common?
+He later what?
+They were what?
+Did Coolidge not publish his autobiography in 1929 and write a syndicated newspaper column , `` Calvin Coolidge Says , '' from 1930 -- 1931 ?
+Is Canada's official language Zulu?
+What is one significant non-official language?
+Which countries established colonies in Canada?
+Which countries established colonies in Canada, France or Britan?
+is Dell better than HP?
+Did Canadian soldiers win the Battle of Vimy Ridge in 1917?
+Which do you like sleeping or eating?
+Do you like chess or cricket?
+Which game do you love playing, crysis or witcher hunt?
+would you prefer sleeping?
+How many provinces and territories does Canada have?
+What is the largest country in the world?
+Which is bigger, India or China?
+WHich country you like the most?
+When it comes to travelling where will you, Australia or US?
+What is the largest religious group in Canada?
+Are Canada 's two official languages English and French ?
+Is it the world 's second largest country by total area?
+Do all ducks "quack"?
+Who is Daffy Duck?
+Which is better? cats or dogs?
+What economic uses to ducks have?
+How does a Mallard's tongue work?
+Why are ducklings particularly vulnerable?
+What allows a duck to filter water out of the side of their beaks and keep food inside?
+When was the Six Day War?
+Which war caused more effect than World War 1?
+Is it better to use Apple phones over Andriod phones?
+is Dell more reliable than alienware?
+Why does most of Egypt's population live near the Nile?
+Is Egypt in Asia?
+When were the Great Sphinx and the Pyramids of Giza built?
+When did organized agriculture appear in the Nile Valley?
+Why does the phrase 'elephants never forget' have no metaphorical meaning?
+Are elephant populations in West Africa generally small and fragmented?
+What are the elephant's ears important for?
+Do they prefer forested areas?
+Which laptops you prefer over Alienware?
+Ferrari Vs Lamborgini?
+boys vs girls
+What part of an elephant is very important for temperature regulation?
+Were the treaties signed in 1947 and 1948 with the Ukraine?
+Is Finnish a member of the Baltic-Finnic subgroup of the Uralic languages?
+In what year were the "Games of the XV Olympiad" held?
+Name an animal that is growing in number due to recent conservation efforts	Golden Eagle, Brown Bear, or Eurasian Lynx
+What is Finland's economy like?
+What is the most extensively celebrated holiday?
+Is it true that he composed finlandia in 1899?
+The earliest people were what?
+Is English the official language?
+What is the official mother tongue of India, Hindi or English?
+Who was Kwame Nkrumah?
+Who is the laziest fellow on earth?
+What do you think about Arsenal Vs Manchester United?
+WHom do you prefer for Chelsea over Manchester City?
+Who makes up Ghana's Parliament?
+What European countries established states in Ghana?
+Is it true that anecdotal evidence connected the akans to this empire?
+Empire of West Africa?
+Are Native Ghanaian languages divided into two linguistic subfamilies of the Niger-Congo language family ?
+Is the republic of ghana a country in west africa?
+Does the Gray Wolf share an ancestry with the domestic dog?
+Domestic dog vs street dog?
+Whiskey and Brandy?
+Vodka or Rum?
+Where do wolves have scent glands?
+Are a wolf's teeth its main weapons?
+Where is the largest gray wolf population thought to be found?
+When do wolves molt?
+Why is it beneficial for alpha males and females to forcefully prevent other wolves from mating?
+Was Grover Cleveland born in New York?
+Where was Grover Cleveland married?
+How many years after Cleveland left office did the U.S. win the Spanish-American War?
+World War 1 vs World War 2.
+Is Grover Cleveland honest?
+Was Grover Cleveland married in the whitehouse?
+When did he die?
+Who were Grover Cleveland's parents?
+Is FordGT faster than Lamborgini?
+Is bolt faster than John?
+Is cheetah quicker than Deer?
+He became chief engineer in the Department of Bridges and Highways in what year?
+Is it true that he married louise désirée lorieux in 1890?
+Was Becquerel born in Paris into a family which, including he and his son Jean, produced four generations of scientists?
+What happened in 1896?
+1365 vs 8796
+Is Ramu better than Somu?
+Is Somu better than Ramu?
+What do you think about pumpkin?
+Which harmonics can produce any notes above middle C? 
+Why is there purling on a cello?
+Where did the construction of Fort Bourbon take place?
+Does Coulomb leave a legacy?
+What is Chinese language`s last name?
+In what country is Chinese language located?
+Is mandarin spoken Chinese distinguished by its high level?
+Copenhagen is the capital of what country?
+Why is Copenhagen a regional hub?
+Are cymbals used in moden orchestras?
+What is an effective way to accentuate a note?
+Did the modern hi-hat evolve from clash cymbals?
+Is Dhaka the capital of Bangladesh?
+Did old English develop into Middle English?
+Is English better than Spanish?
+Are many words describing the navy , types of ships , and other objects or activities on the water of dutch origin ?
+Difference between phone and laptops.
+Difference between apple and oranges.
+Difference between phone and houses in US.
+When was the pan flute spread to other parts of Europe?
+Does the diet of foxes include reptiles?
+Males vs Females?
+What is caching food?
+In Old French, was the plural  for animal animals?
+France signed the European Charter for what?
+Is german an inflected  language?
+Does a  tz indicate that the preceding vowel is short?
+Do giraffes give birth standing up?
+How do giraffes defend themselves?
+Is the SI unit for radioactivity named after him?
+In what year did Henri Becquerel die?
+In what year did Henri Becquerel win the Nobel Prize in Physics?
+Did he share the Nobel Prize in Physics?
+Bank entity contains information such as name, Bank Id. Bank Id is the primary key for the bank entity. Is that correct?
+Card entity has attributes such as No_of_allowed_trans, CVV, CardNo, from_date, expiry_date and pin. CardNo is the primary key.Is that correct?
+Forex sub class includes information such as transaction_charges and max_balance. Is it true?
+A person will have atleast one card and at most three cards. Is it true?
+Hence there is a total participation of person with card.  Is it true?
+Recent development in cloud storage and the services rendered by it allows users to outsource storage. Is it true?
+As a  result, it allows companies or organizations to offload the task of  maintaining  datacenters.Is it true?
+In the past few years, the security requirements for data are very strong and many algorithms have evolved.Is it true?
+Only a few algorithms play a comprehensive role in creating and maintaining a secure session over vulnerable public networks.Is it true?
+Public key cryptography is one of the commonly used algorithms for this type of operation.Is it true?
+The authenticity between the communicating parties is ensured by implementing this technique.Is it true?
+These communicating parties share their private keys amongst them before exchanging information.Is it true?
+What do you think about MS Word and PPT?
+Data protection is achieved through the homomorphic encryption scheme, which all ows additive and multiplicative operations over encrypted bits.Is it true?
+The cloud provider accepts encrypted user query data to perform processing without being aware of its content.Is it true?
+The results of the user query which is again an encrypted data is sent to the user.Is it true?
+The user alone decrypts the data and views the result of the  query.Is it true?
+Cryptographic algorithms like symmetric ciphers, asymmetric ciphers, that meet specific objectives (Guan et al 2013).Is it true?
+The Cryptographic implementations on evaluation show their resistivity against attacks.Is it true?
+It is necessary to determine countermeasures against such attacks and evaluate the feasibility and applicability of such attacks.Is it true?
+Side channel attacks assist in breaking the hardware or software implementations of many cryptosystems.Is it true?
+To break the implementations of signature schemes,  cryptographic protocols, cryptosystems, and networking systems.Is it true?
+Side channel faults are of two kinds.Is it true?
+The first kind of fault is induced during cryptographic computation.Is it true?
+These faults are either random or intentional, caused by a voltage manipulation.Is it true?
+The second kinds of faults occur by intentionally injecting corrupted input data.Is it correct?
+There are many formal definitions for public key cryptosystems such as RSA and Pailler cryptosystem.Is that understanding correct?!
+Public-key cryptography is asymmetric since one of the participants has  a secret key, while the others have access to the public key that matches the secret key.Is it true?
+But, the symmetric system has only one key which should be shared between the two participants.Is it true?
+The complexity of the systems indicates that the computation of public key systems is time consuming.Is it true?
+The objective is to exchange data between two users without sharing a common secret.Is it true?
+RSA Labs embarked on an effort to differentiate the security level of symmetric key and the RSA key size (Yu et al 2013b). Do you think that's correct?
+The security of RSA depends on the key size.Is it true?
+In integer factorization problem-based algorithms, the security depends on the difficulty to factorize a large number to obtain large primes.Is it true?
+The error detection scheme includes input block that contains all the input chunks.Is it true?
+Based on the size of the input, chunks are created.Is it true?
+The number of chunks decides the type of error detection scheme.Is it true?
+When the count of chunks is two, the basic error detection scheme for evDoes the giant otter live in South America?
+When the count of chunks is odd the error detection scheme for odd chunks is evaluated?
+Under this scheme a constant chunk is generated and it is used during encryption?
+The large dataset involves large number of chunks relatively of the order of n follow the enhancement error detection scheme?
+The enhanced error detection scheme is allowed to run in parallel framework?
+K denotes number of input chunks taken for all three schemes?
+What are the difference betwee C , C++ and Python?
+Ford is faster than apple. Is that true?
+GTA game is better than Witcher game. What do you think about that?
+List the difference in usage of Hello and Sayanora?
+What do you learn in NLP and Machine Learning?
+MapReduce in Hadoop and Spark features have to be compared. Elaborate them.
+List the intricacies in cloud computing and distributed computing.
+The one-time encryption of individual chunks using Map-Reduce improved the fault detection latency cryptosystem. Is that valid usage?
+The memory overhead depends on the mapper output values that are stored in buffers. Is this statement true?
+What is Henri Becquerel?
+Where is Henri Becquerel from?
+When did Netwon investigate the refraction of light	From 1670 to 1672?
+What was Italian language`s profession?
+How many offspring did Italian language have?
+Where is this letter silent?
+Is it true that legge sulle fonti del diritto of 7?
+Italian retained the contrast between what?
+Are front/back vowel rules for C and G similar in French , Romanian , Spanish , and to some extent English ?
+Can Regional differences be recognized by various factors : the openness of vowels , the length of the consonants , and influence of the local dialect ?
+Is Lima the capital of Peru?
+The Spanish Crown named Pizarro governor of what?
+Over how many languages are spoken in London?
+Compare language spoken in London and US?
+What was Michael Faraday`s birthplace?
+Was Tesla born in the United States?
+Is he talented?
+What do you think about skills of edison and faraday?
+Who is the mayor of Ottawa?Kabol or Kaabul?
+Which path is better? Right or Left?
+Does the giant otter live in South America?
+Where do sea otters live?
+Which is fast? Whale or Shark?
+Compare Blue whale size vs seal size.
+Are there any cities named Santiago in the United States?
+Is Santiago a name in Spanish?
+What is the Order of Santiago?
+What notable people have been named Santiago?
+The deeper  the blue  is, is the more  predominant?
+List the difference between Blue whale and tiger shark.
+Is it true that mexico contains the largest population of Spanish speakers?
+Is spanish an official language of the European Union?
+However, is English the official  language?
+However, is Spain the official  language?
+Which is their official language?
+What is Swahili language`s last name?
+Where did Swahili language die?
+Has swahili no diphthongs?
+Swahili unusual?
+Are there today more speakers in Kenya of the Somali coast?
+Do some writers mark aspirated consonants?
+Do swans belong to the family Anatidae?
+Can black swans swim with only one leg?
+What are young swans known as?
+What is the Irish legend of the Children of Lir about?
+What is the Sanskrit word for swan?
+Are swan birds of the family Anatidae?
+Do swans feature strongly in mythology?
+Where is the word "swan" derived from?
+What is the best known story about a swan?
+Which difficult level do you want to play in, Easy or normal or hard?
+What is the color of the Australian Black Swan?
+Is the Tiger a member of the Felidar family?
+Are panthers a type of tiger?
+What do tigers' powerfully built legs and shoulders allow tigers to do?
+What do tigers' powerfully built legs and shoulders allow tigers to do?Run or Sleep?
+What do feel about lions?
+Is lion faster than tiger?
+Compare features of lion and tiger?
+Illustrate the difference between animals and birds?
+What is OOAD?
+What is the classification part in OOAD?
+Define about Question answer section?
+What would a tiger do when seized by a crocodile?
+What are the typical features of a tiger country?
+Would a tiger be likely to feedon smaller animals, such as mice?
+How does a trumpet produce sound?
+How many groups are turtles broken down into?
+Are tortoises land based?
+Is tortoise an amphibian or not?
+Where is harvesting wild turtles legal?
+Is there a way to approximate the age of a turtle?
+What is the age of turtle?
+Where does the word "violin" come from?
+How many strings does a violin usually have?
+Compare the features of violin and veena?
+Is veena easier to learn than violin?
+How long have people been making instruments like violins?
+Are xylophone bars made of rosewood?
+Were ancient mallets made of copper?
+Where does sanskrit originiate from?
+Is sanskrit ancient than tamil?
+Is tamil ancient than hindi?
+Which is easier to learn? Hindi or tamil?
+How are western-style xylophones characterised?
+How are eastern-style xylophones characterised?
+Can a short bar follow a long bar?
+Did vibraphones exist in 1930?
+When did vibraphones originate?
+Is Antwerp a municipality?
+Is trichy a municipality?
+What is looping?
+What are constructs?
+Is looping efficient?
+Is recursion better than iteration?
+Compare features of recursion and iteration?
+Antwerp is to the east of what river?
+Antwerp is to the west of what river?
+Antwerp is to the north of what river?
+Antwerp is to the south of what river?
+Belgium is farther than portugal from UK?
+How many people speak the Arabic language?
+Why does Arabic heavily influence European languages?
+Which is easier to learn? Hindi or Arabic?
+What do you feel about eclipse?
+What is netbeans?
+define photosynthesis.
+Explain homographs.
+Compare homophones and homographs.
+What do linguists do?
+Is he smarter than Ram?
+Does Modern Standard Arabic continue to evolve like other languages?
+Egyptian Arabic is spoken by how many in Egypt?
+The most active Academies of Arabic Language are found where?
+Is Berlin the largest city in Germany?
+Where is the Berliner Dom located?
+Where is the bust of Queen Nefertiti?
+Where is the bust of Queen sherlock?
+Is sherlock smart?
+The government of a country may restrict the number of immigrants allowed to enter that country. These restrictions are most likely based on what belief?
+Based on the information, which is an opinion rather than a fact about immigrants to North America? 
+Clay soil forms a fairly effective barrier against the movements of water. In which statement is the appropriate soil selected for its intended site?
+A cook decides to recover some table salt that has been completely dissolved in water. Which of the following processes would be the most effective method of extracting salt from the solution?
+How Shall Employees Conduct Themselves?
+How Shall Managers Conduct Themselves?
+How Shall CEOs Conduct Themselves?
+How Shall CO Conduct Themselves?
+Based on the information in this excerpt, what would be the company's policy about accepting gifts or entertainment from people representing your competitors?
+Based on the information in this excerpt, when is it permissible to give money that might be considered a bribe or a tip to a government official in order to facilitate business?
+What is the current balance in Tisha's checking account?
+Is mapping of documents better than linearly storing and arranging files?
+If 5x plus 32 equals 4 minus 2x what is the value of x ?
+WHich is the ideal solution? Drop or take?
+Which of the following numbers is farthest from the number 1 on the number line?
+Which is better wine? 18 or 24 year old?
+The figure above shows the graph of the function f, defined by f of x = the absolute value of 2x, end absolute value, + 4 for all numbers x. For which of the following functions g, defined for all numbers x, does the graph of g intersect the graph of f ?
+A car got 33 miles per gallon using gasoline that cost $2.95 per gallon. Approximately what was the cost, in dollars, of the gasoline used in driving the car 350 miles?
+A certain jar contains 60 jelly beans — 22 white, 18 green, 11 yellow, 5 red and 4 purple. If a jelly bean is to be chosen at random, what is the probability that the jelly bean will be neither red nor purple?
+Where does the German President live?
+When did Berlin give up its status as a free Hanseatic city?
+When did Germany give up its status as a free Hanseatic city?
+Who was Blaise Pascal's father?
+Who was Blaise father?
+Who looks pretty , ramy or shamy?
+Who was Pascal's father?
+Who was Newton Pascal's father?
+Who was Pascal's younger sister?
+How old was Pascal when he lost his mother?
+What led Pascal to his religious conversion?
+Who died the next morning?
+Is it morning or evening?
+When will you go? Afternoon or night?
+Which are ideal places to roam around?
+Which is an ideal place to roam around? Dallas or arlington?
+Does a black moth mean that someone has died?
+What allows the butterfly to evade predators?
+Was the SI unit of charge named after Charles-Augustin de Coulomb?
+What is Charles-Augustin de Coulomb best known for?
+What happened in 1757 to 1759?
+Did the family move to Paris as well as there Coulomb studied at the prestigious Collge des Quatre-Nations?
+Are all spoken varieties of Chinese tonal and analytical?
+Does "ketchup" come from the Minnan pronunciation of (koe-tsiap)?
+How many head entries for character definitions does the Zhonghua Zihai contain?
+What does the PRC government classify as literacy amongst workers?
+What is the standardized form of spoken chinese?
+Do linguists often view Chinese as a language family?
+How does the government of the People's Republic of China often refer to all divisions?
+When was Middle Chinese used?
+What language was used in the Zhou and Southern Dynasties?
+What are some of the cougar's primary food sources?
+What are the three heaviest cats in the world?
+Are ride cymbals very common?
+How many cymbals typically go in a drum kit?
+What kinds of musical groups use cymbals?
+Are dragonflies capable of walking?
+Which is cooler, dragon or dragonflies?
+Which is faster , dragon or dragonflies?
+Is the drum a member of the percussion group?
+Is the drum a member of the fanatic group?
+How long has the basic design of the drum remained unchanged?
+Do drums consist of at least eight membranes?
+Is he a good drummer?
+Has the design of drums changed recently?
+Do many such drums have six to ten tension rods?
+How many species of true eels are there?
+What types of fins do eels have?
+Are the dialects of Finnish divided into two groups?
+Where is the Kven language spoken?
+Who wrote the first novel in Finnish?
+What is the earliest extant transverse flute?
+Do open-ended flutes have brighter timbres?	
+Where was the oldest flute ever discovered found?
+Why is a police whistle very wide for its pitch?
+Football or volleyball?
+Which is faster football or basketball?
+What is basketball?
+Which ball do you prefer?
+Do you like games?
+Is he efficient?
+What is b+ tree?
+b+ tree vs b tree comparison?
+Why is a police whistle very wide for its pitch?
+What are the two main varieties of Indian flutes?
+Has the flute been dated to prehistoric times?
+What material is a chi flute fashioned from?
+Do giant pandas attack humans?
+What foods do pandas eat?
+What is he doing?
+Is he drunk?
+Whose drunk more than John?
+Where do Giant Pandas live?
+Where do Giants live?
+Does he love GOT?
+What is GOT?
+He is smart, isnt he?
+Whose smarter than John?
+Is the battente smaller than a classical guitar?
+Where is the headstock located?
+Where is the mountain located?
+Where is the trichy located?
+What is the bridge used for?
+What is the road used for?
+Brooklyn vs Howrah Bridge comparison.
+List the features of Java.
+List the features of C#.
+List the features of Ruby on Rails.
+List the features of C.
+Why is ROR better than Python?
+Can guitars be divided into two broad categories?
+How many strings does a guitar typically have?
+What are most electric guitar bodies made of?
+How old is the oldest known representation of a guitar-like intrument being played?
+Where is the oldest known representation of a guitar-like intrument being played?
+Why did Bequerel win the Nobel Prize in Physics?
+Was Isaac Newton British?
+Is he faster than Usain Bolt?
+Did the Occult influence Newton's theory of gravitation?
+When I stand before the Lord, I'd rather explain why I went, rather than why I didn't go.Is this nice?
+Of course men can multitask, they read on the toilet. Isnt that funny?
+It is the pain of sacrifice or the pain of regret. Is that correct?
+When the well's dry, we know the worth of water. Is that true?
+Have you tried sushi?
+Is sushi tastier than Pizzas?
+Burgers or Pizzas?
+Which food do you like?
+Do you love Briyanis?
+Why is he fat?
+Is she fat?
+Who is taller than Kobe?
+Lebron james vs Kobe Bryant?
+If you can't dance, don't blame the dance floor. Isnt that true?
+Who is better than JFK?
+Is he multitalented?
+Does he do multiple tasks at the same time?
+You may have grown old, but you may not have grown up. Is that a fact?
+What is a fact?
+What is AU?
+Define NLP.
+Define Hypernymy.
+What do you think?
+If you need time alone, try cleaning the house. Is that correct?
+Write a C program that won’t compile in C++
+Name Mangling and extern “C” in C++
+How does “void *” differ in C and C++?
+Write a program that produces different results in C and C++.
+Type difference of character literals in C and C++.
+What are Constructors in C++
+What are Copy Constructor in C++
+What are Destructors in C++
+Does compiler create default constructor when we write our own?
+When should we write our own copy constructor?
+When is copy constructor called?
+When do we use Initializer List in C++?
+Define Destructors in C++.
+Define Copy elision in C++.
+When does compiler create a default constructor and copy constructor in C++?
+Why copy constructor argument should be const in C++?
+When are static objects destroyed?
+Is it possible to call constructor and destructor explicitly?
+What all is inherited from parent class in C++?
+Differentiate Virtual Functions and Runtime Polymorphism in C++
+Define Multiple Inheritance in C++.
+What happens when more restrictive access is given to a derived class method in C++?
+What are you capable of doing?
+Is it possible to finish it on time?
+WHose good looking? Paul or John?
+Can you take over from me?
+What is good in taste? Maggi or Top raman?
+Will you prefer driving ferrari over ford?
+List similarities between JFK and Lincoln.
+In colonial America , the house of burgesses, the mayflower compact , and town hall meetings?
+What was Rudyard Kipling's attitude toward the British Empire?
+how do i get musical roles without experience?
+is this a good prologue?
+How to change myself.?
+My sister paid me to draw something for her, now she's taking credit for it?
+The Outsiders - How do I answer this question?
+how often do you draw?
+Who did George washington capture at the battle of Trenton?
+what was the last thing you drew?
+What would you rate my drawing on a scale from one to ten?
+What should I name my Snare Drum?
+Should I play Guitar or Violin?
+I wrote in public library books- will they notice?
+I need help for a 911 call in my book?
+what are your opinions on these types of people?
+Can you name a great accomplishment that somebody did on their own?
+What are the good and bad things John Brown did?
+What should i name my guitar?
+I love acting, I want to do it professionally, but I have a few questions.?
+FBI - CIA or US Marshall for a character of my book?
+Does Rocksmith 2014 actually teach you how to play guitar?
+Short chapter by chapter summaries for bucking the sarge?
+CAN SOMEONE PLEASE TELL ME WHAT THIS SYMBOL MEANS http://www.flickr.com/photos/115132640@N03/12076651393?
+Poetry title for my book?
+has anyone published a good selling book without schooling like college?? If so how did you guys do it?
+What do you think of this?
+I no longer desire things?
+Do I have any chance of joining Cirque Du Soleil?
+Any Title Ideas for This?
+Would anyone be interested in test reading my book?
+Im starting to wonder if my great grandfather was part of a mafia?
+How do I get creative ideas for my story?
+There comes a time in everyones life?
+How are these names for my medieval fantasy?
+Do you protect yourself by a fence?
+Where the head goes..the feet will also go?
+If you have unlimited wealth to create or do anything, what will you do?
+The annals of history tells us that Martin Boormann was more evil and devious than even Hitler. Is this true?
+how would someone who almost drowned (to death) react when regained consciousness?
+How to build upon my instagram?
+Why do I always hate what I've written a few days after I start writing it?
+American History - Andrew Jackson?
+Questions about Miami CIty Ballet Summer Intensive?
+Would you make last minute changes, if God came back now?
+Wouldn't an infinite amount of things occur in eternity?
+Can someone paraphrase this for me ? easy 10 points??!!!!?
+what is your opinion on high school senior or graduate photos?
+Experts on The Great Gatsby novel PLEASE HELP !?
+What was the very first civilizations?
+Do you think people have gotten less empathetic over the years?
+is tickle-torture a real thing?
+Ideas for short Frozen fanfics?
+How to join two metal pieces?
+Is Boggs black in Mockingjay?
+when should this story start off?
+Which is the best name for this character?
+Pol Pot killed 150,000 ethnic chinese. How come the Chinese government supported him till the end?
+Can I do this or no...?
+What is character analysis??
+I need to read a french book, but I don't understand anything :)?
+Was China the reason the USSR collapsed?
+\Octopus\ repost: Will you please cc?
+I Need Help In History Please..10 Points Rewarded!?
+What was Henry VII's relation like with scotland?
+Can you help me decide the perfect title for my new poem?
+How did Charles de Gaulle risk his life for the lives of others during World War II?
+Truth thoughts.. what are yours to this quote?
+Are there any Workshops for Actors in London/U.K.?
+Help with world history?
+What is a good name for this character?
+For an audition, is it okay to go a little over 16 bars?
+which would you prefer to read about?
+Need a story element ?
+I need help with my story 10 PTS?
+Good pop songs for an audition?
+When do you suppose sad endings are more appropriate than happy ones?
+How to show vs. tell?
+What was the tax structure like in france AFTER the French revolution?
+What's wrong with all these humans? Why can't they prove that they exist? Do they(we) exist? ANSWER ME?
+What are some things that make you really sad?
+Is it too late for me to have a career in ballet?
+May I please get some real feedback?
+Trying to find out if the Richard Stanley Beal recommended for a medal is my great grandad?
+Did the dark ages exist?
+Has anyone read Mercy by Jodi Picoult? If so, how did you like it?
+Did McGonagall ever call Harry by his firstname?.?
+Do you like my fashion photo?
+POLL: What is your list of 'must-read' books?
+What could the consequences have been if India hadn't helped Britain in WW1?
+WRITING HELP!! How can a mafia boss, a photographer and a drug addict doctor can become related in a story?
+Do you guys like my story ?
+What do you want to achieve before you die?
+What is your favorite color of paint?
+What would you do if you found out your life is a reality TV show?
+What if other people notice your voice sounds different recorded?
+Are these really immoral? Why? *warning explicit*?
+How does deTocq characterize liberty in relation to social equality?
+Any tips on how my characters should meet? !?
+Is my story any good?
+fashion, graphic, commercial designer. help?
+Is my story any good ?
+What do you think of this story plot?
+what is the meaning of dangerous knowledge? what can it do? why?
+PLEASE I NEED FEEDBACK?
+How to grab a readers attention when writing Fantasy Novels?
+Name of this poem or short story?
+Can i sing??? what to do to improve?
+What book series am I thinking of?
+I wanted to ask you guys a question about this book..!!?
+What are you hoping will happen after you die?
+Does anyone actually do what Augustus do in the fault in our stars?
+Any advice for a new burglar?
+should I live unhappy? loneliness is killing me?
+What's the difference between a duke and a baron?
+sometimes I like to seperate myself from other people on account to the way I think........?
+What do you think of this?
+How do I find out the tribal name of my Great Great grandmother?
+Need one shot manga ideas!!!?
+What are some books I can read that can improve my writing skills?
+What happened at the end of the book crank?
+who really blinked during the cuban missile crisis? was it kennedy or the soviet premier? why would?
+Any ideas for a one shot manga?
+What makes you happy in life?
+I would like to know the existance of all things or maybe even hints i could possibly piece together.?
+Why is it so fun to troll atheists?
+Why is Twillight popular?
+Can someone write a summary of my story for me?
+huckleberry finn symbols?
+A good title for this story?
+Is the name Isabelle cliche?
+TWILIGHT FIRST BOOK HELP?
+What can I write about for my history paper?
+What do you think of my poem? (Ugh, I know, but please give me feedback)?
+how did Muhammad Ali remain independent during the age of imperialism?
+Twillight is better than lord of the rings, am I right?
+How did reforms made by sultans divide factions in the Ottoman Empire?
+Any good books for 14 year olds?
+How do I get started in acting?
+How can I explain a kiss?
+Please checkover my united states history? 4 questions?
+What accesories do i need for a guitar?
+As the mind is special, have you ever been trusted to much?
+How do I get an acting agent?
+What is a daemon in the book the golden compass?
+Is it better to get the 18-200 mm lens instead of the standard 18-55? Nikon?
+Are writer's conferences worth the money?
+Establishing a main character in a multiple pov book..?
+how did Marilyn monroe persevered?
+what Does it mean if you Procrastinate on Career Choice?
+Philosophy on the toilet seat: Will an outdoor toilet survive a earthquake?
+Was Feudalism an effective governmental system in Europe?
+A good title for this story?
+Which book of the A Song of Ice and Fire series is the best?
+Which was not a characteristic of the culture of ancient Greece?
+Would you consider this a form of plagiarism?
+things invented by Canadians in the 1900s-2000s?
+Does evil stem from ignorance?
+Nazi concentration camp freedoms?
+Which of these protagonist's names sound decent?
+Did we win the Vietnam War?
+Was the German Empire (1871-1918) anti-semetic?
+What do you think of a Japanese girl playing a bass electric?
+Who was the best \First Lady\ of the US, and why?
+Do you know of any professional pianist that are book writers as well?
+Was Sacagawea taken by Hidatsa Indians or Shoshone Indians and where was she taken?
+How can you say that you are not dead?
+Would you feel \great\ if a wiener was named after you?
+How to keep a great diary of teenage years?
+How to put 3 pictures into 1 picture?
+How to get used to drawing digitally?
+what if we were all part of some guys imagination?
+I need help with my story?
+Phantom of the Opera question?
+Creating a title for a piece of art?
+what did great brittain and the soviet union think when we nuked japan?
+What was this book publishing webpage?
+Story about girls at a boarding school: plot ideas?
+Would this novel structure work as a concept?
+If Lenin did not die in 1924, how the history might be different?
+Which should I do....?
+Differnce between artist brushes and hardware store brushes?
+What should I wear to an opera?
+Becoming a professional modern dancer?
+If my grandmother was from Mexico would that mean I have Aztec/Mayan ancestry?
+Where does internal peace come from and do all humans have the potential to?
+Should I catch up with the dwarves?
+Are historic cave drawings a historic means of social media?
+Which title for my story?
+What do you think of this idea? (revised)?
+Help me with my story please continue it please!?
+what are the 6 different color classifications? (Ex: intermediate, primary)?
+What does this sentence mean?
+Book about a Russian guy named Vitia?
+How do you make wolf ears?
+What happened to the world?
+What nationality am i ?
+Character name ideas?
+Can you look someone up on Ancestry.com for me?
+did women play a significant part in early Hollywood?
+Where can I get the outfit Chelsea Korka wore on The PCD show?
+Recommended cross-body purses?
+i just started cosmo school and everyone gets it on first try but me?
+what would you wear with floral print boots?
+Which of these purses do you like better and why?
+Is it safe to wear used earrings?
+How long should I wait after getting my ears pierced to start stretching?
+I'm the ugly friend of my group? What can I do about it? How can I deal?
+how to boost my self confidence?
+Is okay to where the same pants/leggings as you did last week ?
+Which of these purses do you like better and why?
+Does this piercing look too trashy?
+can i wear black button down shirt on prom?
+why do girls were makeup?
+Where can I buy an iphone case like this?
+Is it bad that I like makeup at 14?
+Lets swap clothes this second what would i end up wearing?
+My nose is sooo big at 14!?!!?
+Is it normal that I shave my legs as a guy?
+Does healthy hair grow faster?
+How to keep your hair healthy after a haircut?
+stretch marks on back of knee?
+I need help with a makeover?
+Do i have good seats for this concert?
+How can i make my hair curly,wavy,or something other than straight?
+Can any PROFESSIONAL hair stylists tell me what to do about my situation?
+Good Hairstyle websites for teens?
+Help with my eyeshape!!?
+why is my nose so oily ?
+Snakebites? someone help please?
+Does biotin pills help with hair growth?
+Could i become a model? That is the question...?
+does anyone else look different some days?
+Color Oops and bleaching?
+How to counteract acne from milk?
+How do i persuade my mum to dye my hair?
+Forearm tattoo price and time to finish?
+I'm having H&M shipping issues?
+Do you think selfies are annoying?
+Which color should i dye my hair?
+Do you still polish and shine your shoes?
+Does drinking more than 10 glasses of water reduce hair falling?
+Will cutting my hair make it thicker/ healthier?
+What is a good store to get interview clothes for a mid-20s woman?
+will I regret cutting my long hair to my shoulders?
+Which dress do you guys like better?
+What moisturizer should i get?
+Cheap bridesmaid dresses?
+Good shampoo's to grow your hair?
+Can I transfer from Hollister to Abercrombie?
+What is my skin color?
+How long until I see results?
+I have awkward hair and need it styling for prom i also need makeup ideas.?
+HAIR PROBLEM - IS THIS NORMAL? PICS?
+Which cambridge satchel should i get?
+Are mens and womens jeans cut differently?
+New foot tattoo? IS THIS NORMAL?
+What is the purpose of a camisole?
+Is there really much difference between cheap makeup and expensive makeup?
+what kind of heels would look good with this dress?
+which top is more pretty?
+Do I need to get a nose job?
+will I regret Cutting my long hair to my shoulders? please help!?
+Why are my parents unfair?
+Brown to blonde hair?
+Would it be weird for a guy to wear a crop top?
+which top is more pretty?
+Why don't I believe that I am pretty?
+Eyebrows help I am screwed?
+How do you create your own fashion?
+Homecoming in a few days !!!!?
+I returned a pair of boots to a store and there saying they didnt get it?
+Do I look okay like this for work??? Guy, pics included?
+What could I do to hydrate my skin regularly?
+Is tinted moisturiser better then foundation for people with dry skin?
+What would be a good name for a disease that makes you \beautiful\ in a world of ugly people?
+which headband looks the best among them?
+do the bendy hair rollers work?
+Why are my parents unreasonable?
+I don't like my nose?
+how to you get curls to stay in your hair?
+First physical impressions if this guy? (asking females)?
+Help with this ear piercing problem????!!!!?
+would waxing make it thicker?
+Is this mens hoodie chavy?
+dying nearly black hair lighter?
+is it okay to have a smaller butt but a bigger chest?
+I got my belly button pierced 4 days ago, and it seems to be more red and a little more sore than yesterday?
+I want to dye my hair blue?
+How to dress a bit classy for a teenage guy?
+Which is the best website where we can get fashion of streets of india?
+how to get rid of acne red scarring?
+Best makeup brushes & Liquid eyeliner?
+I want to get rid of lice?
+What is beautiful? do brown/black girls look beautiful?
+what body shape am i?
+which color is the best looking of these three totes?
+Is beauty subjective?
+Is spending $600 on a prom dress crazy?
+how much would this tattoo cost?
+Medium brown eyeshadow?Are any of those shades medium brown?
+How much will it cost for a teen to straighten hair permanently for around 6 months?
+What is handsome? do brown color skinned man look handsome?
+Do you prefer your hair to be parted on the side or in the middle?
+What color top and shoes would go with floral print jeans?
+How bad would it hurt tongue re-pierced?
+What's the fastest way to get rid of an infected belly button ring?
+How do i cut my hair?
+a guy wearing Skinny jean shorts to school?
+Junior High Style Question?
+I'm going to start my apprenticeship as a tattoist is there a website i could buy a good tattoo kit?
+How bad does getting your nose pierced hurt?
+Can green army like pants have any potential style?
+How big is your bedroom?
+Girls do you wear shorts under your skirts/dresses?
+their should be men makeup that guys can buy.?
+Girls, do you like this top?
+Bobbin case on LSS-505?
+Does a tattoo machine(gun) really matter when tattooing?
+Getting my tongue pierced, questions!?
+my nose ring stinks :p?
+Where should I get my tattoo? (If I decide to get it)?
+Women: Do you have sex in the daylight totally naked?
+I need help finding a prom dress!!?
+How to look vintage rustic?
+My roots didn't lighten enough?
+Going Hunting, should I wear makeup?
+Which color of this blouse do you like better for spring?
+What should I wear to a first date hockey game?
+Light brown eyes vs Dark brown?
+Brown eyes vs Blue eyes?
+Is my tongue piercing normal?
+Is it ok for a guy to get his eyebrows waxed?
+Modeling tips/advice?
+Can you reuse fake eyelashes?
+Are nipple piercings attractive?
+Is Maybelline dream matte mousse foundation any good?
+Am I taking too many vitamins?
+women - do you feel it is ok to have you bra straps showing in public?
+Tragus piercing bump?
+How do you by an empty MAC palette on the MAC website?
+Tattoo ideas! Help please!?
+What Body Shape am I?
+Are these just highlights?
+How to make my hair grow out by summer?
+when you wear leggings or yoga pants do you wear a short shirt - or a long one to cover your butt?
+I can't stop picking my scalp...?
+My eyes get really watery when I put makeup on?
+If we switched clothes what would I be wearing?
+Women - which do you prefer - leggings, yoga pants or a tight skirt?
+what do guys think of girls with scars?
+What are appropriate color handbags for winter?
+My eyes are puffy from crying?
+I want to look cute without overdoing it?
+Changing sequins on a dress?
+how to be popular in middle school?
+What are your thoughts on body glitter?
+Can i leave the same piercing in ? How long?
+Is my new cartilage piercing OK?
+earring/gauge help!! 20g to 18g?
+how do makeup gurus use all their makeup?
+My gauged ear bleeding?
+Online stores to look for purses?
+How can I get myself to stop caring on what other people think of me?
+Ladies: What is your favorite makeup brands?
+Is shaving your face bad? (Women)?
+Got any good sweatpants recommendations for men?
+Online stores to look for purses?
+What should short girls wear?
+Great eye make up for blue-grey eyes.?
+Good watches for under $150?
+How do I ask to shave my legs?
+Am I a good size or not...?
+Do these purses look cheap?
+What should short girls wear?
+Do these purses look nice?
+What Should i wear with my Miss Me Jeans ?
+Would this be a good tattoo?
+Do teenagers really need to do their eyebrows?
+How do i make my hair look a natural curly?
+How to do a top knot/ bun?
+Why do some women look horrible without makeup?
+my hair is being a pain *PLEASE ANSWER *?
+Is vera Bradley really going out of business?
+HOW TO DO MY HAIR FOR SCHOOL?
+A career where you can study skin?
+What foundation is great for dry skin?
+HELP- Would I look good with blonde hair?
+How do I grow my hair out fast?
+What moisturiser is good for dry skin?
+?57° Weather Outfit Idea???
+Is my hair texture gone forever?
+What type of shorts are in style for teens guys?
+Help with acne on forehead!?
+Will dark auburn semi permanant hair dye show up on my dark hair?
+Why has my skin tone red and sore?
+streight fluffy hair?
+girl area. What do you do when pubic hair grows ?
+Are heels hard to dance in?
+does anyone know where I can get these jeans?
+How much money should I save up before I move out?
+where should i go to get my tax refund?
+Question about PayPal's policy and prepaid?
+If i buy shares what happens?
+Stock minor account!?.?
+Debt collector transferred debt on false information?
+is stealing an atm a good idea?
+Is momentis a legitimate way to make extra money?
+What should I do about my financial issue?
+Is silver a good investment ? To buy then later sell I bought 9 1oz coins for $21.70 per coin was this smart ?
+How much percent do I take away from $500 in order to have $400?
+do you get fee'd on ebay if buyer doesnt pay?
+Could I qualify for a mortgage with the following....?
+I sold a package on ebay and I am unsure when I will receive my money?
+Statement of cash flows \X\ chart. Operating, Investing, Financing.PLEASE HELP. Accounting II?
+What is the deal with extreme couponing?
+Do i need to file multiple state income tax returns returns?
+How much do you need to start an off licence nothing too big just a little shop really. Uk answers please?
+File as dependent or Individual?
+Do I have ground to stand on with rental issue?
+Landlord lists heat as included, but I need to run electric space heaters in bedrooms?
+Are bills more expensive when living in a bigger home?
+my package is in RHODE ISLAND?!?
+What is positioning in marketing?
+Accounting Journalizing Transaction Help!!?
+If you enter an amount for Federal Tax Withheld do you have to also for Social Security?
+Can I put all of my money onto one gift card?
+Is the Landlord Required to Provide Cleaning Service in my case?
+How to build credit when you have none?
+How to earn money as a teen?
+Will my credit score go down when I am older?
+How much can my wife and I expect to get back in a Tax returnt? Our gross Income was $49,000, we had a baby (o?
+im renting a home in tx that's going to get foreclosure what are my rights what happens to are lease?
+What is iphone demographic?
+How much taxes would i get back or owe if i made 2,700$ and claimed 1?
+How would a job require personal transportation if it's a medical office job?
+help finding certified nursing assistant C.N.A job.?
+If I made 300k per year, how much would I actually TAKE HOME after taxes?
+I made a really stupid decision on eBay?
+Myself and my partner want to move county!?
+What is my job title?
+Can I get refund money on my taxes for interest accruing on student loans in the past?
+I am SSDI But thing is income tax?
+Will i get in trouble if i used a debit card where it says to put a credit card infomation?
+Real work concerns help?
+Which real estate brokers agencies hire salespersons that they pay a wage to?
+What skills should you have if you want to be a secretary?
+Would employers hire college students as a secretary?
+How Much Time Off Would Be Fair?
+How can someone under 18 get a credit card?
+How can someone under 18 get a credit card?
+So Buffett was wrong to sell Johnson & Johnson?
+Do you think I'll still be able to do some bedside nursing as a nursing jnformatics specialist?
+Can I Take Holidays All At Once?
+Are prepaid cards any good for a 14 year old?
+For 2 sources of income, job in the US & income from overseas business, does Foreign earned income apply?
+do licensed practical nurses have great schedules?
+Um, don't force to me put down at taxes income?
+What job do you wanna when you get older ?
+any teen jobs that hire?
+Can I get housing benefit with £18,000 in savings?
+Would employers hire a high school student as a secretary?
+EIC on Disabled Brother?
+Tax Filing - Minimum requirement?
+bluebird card fact....?
+I have a 1934 Five Dollar Bill. What is it worth?
+20 and need a new job?
+When an apartment company does a background check will a felony that was dismissed by a 1203.4 stop them from?
+Why does modern advertising promise to make you successful in everything?
+what is paypal and how does it work?
+how much money does it take to run a house monthly in albany oregon?
+How possible is it to save 68,000 quarters?
+How much trouble wpuld I be in?
+Employed college graduates, what is your average annual income? just curious?
+How to refund a money order?
+What do you like to spend your money on after paying bills and food?
+Email Creation Question?
+I keep getting money, but there's nothing I wanna buy?
+If an idea is not new, but has never been applied for, then can someone patent it ?
+Is there a stock website?
+job interview for Chipotle? what to wear?
+i need help with mobile home value?
+Do I have to take a different NCLEX-rn test to be a nurse in another state?
+Would it be reasonable to quit job after getting hours cut?
+How can i learn of earning from facebook?
+How old do you have to be to make a Paypal account.?
+Who Hires At 17... I need a job?
+Buying a house cash in SA, Texas?
+Should I get a credit card?
+what kind of a job can i get?
+Will a background check include reasons for leaving on the employment history?
+If Warren Buffett is so smart, how come 2 of his biggest stocks; Coca Cola, IBM, performed so lousy last year?
+Can a store manager's salary be a certain percent of revenue?
+Pls help. the cost of international mail is too much. need a cheaper way.?
+I have been working for my employer for 5 years, is it illegal that they haven't gave me a raise?
+Is a 60% return in one year a good percent to offer?
+Which first: get a loan, buy land, or have blueprints drawn?
+How do you open a savings account?
+I am filing my taxes and I am claiming my baby which is 5 months old. do I qualify for child tax credit?
+Is ups opened on holidays like martin lither king day?
+Does insurance cover eating disorder cost?
+If you quit a job, do you have to put in on other applications?
+Do you think warning labels are effective?
+Is it possible to drop down a price on a used car at a dealership?
+How to make a budget?
+I am thinking about opening a Christian daycare. I need help with the slogan. The name is Garden of Eden.?
+I cant find a job. Any suggestions ?
+what does conditionally accepted into an apartmemt mean?
+RBS group does each other companys have different shares or are they all under RBS shares ?
+Can I do these jobs with missing my right forearm?
+Difference between US money order and a money order?
+I have a question about the Nursing major, please help?
+A career where you can study skin?
+I am a nursing student and need some help with my resume...?
+Several bedroom house rentals in Knoxville tn?
+Paypal dispute from a teamviwer paypal cam show (kind of) can I win?
+Best Way To Sell My Stuff?
+should i be a cop or porn star?
+Why did I receive a negative credit score for applying to a credit card?
+LIfe insurance for both of my parents questions?
+Is this a reasonable offer?
+I would like to know something about import/export to the UK mainly from Asia?
+should i be a porn star or a cop?
+What can I do with 500 dollars?
+What should I name my fake restaurant?
+Business loan VS credit?
+Changeing the carpet?.?
+solve for the missing amounts in accounting?
+references for work applications?
+all-in-one ecommerce solution.?
+Do not wish to renew my lease with my tenants would like to let them know as early as possible.?
+Oklahoma law tenant landlord?
+How do you word this financialy (compound interest)?
+Is this a reasonable offer to make on a business?
+I ordered a supplement from Amazon but got it opened, is it safe?
+Selling House Title Company Out Of Business Problems With Previous Owner What Now ?
+I am 23 years old and I want to join the air force. What are great jobs to enlist in the Medical field?
+First job interview ?
+do you have to pay taxes to open a think or swim account?
+How do I find the retained earning ending without knowing what the dividends are?
+When you have a loan, do you only pay interest on your remaining balance or the initial principal?
+HELP!! How much postage do I need to send something?
+where do i pay sales tax in missouri?
+Fed Income Tax Dependent? Student For Spring Semester Only; Qualifying Child Age Test?
+What is 10000 x 4? It's hard?
+What do I put on my w4 form?
+Do law firms look down on JD/MBA graduates?
+$12,490 a lot in savings?
+felling really shit and unappreciated at work?
+How is income tax collected in the US?
+FIRST YEAR DOING TAXES HELP! !!?
+Becoming a nurse and social life?
+Can you please tell me how much money i will make using a saving account?
+What are commissions for auto & home owner's policies in MI?
+Need advice on finances with husband in college & 2 kids?
+does anyone know the measurements for the jump seats on US Airways?
+Does the amount you can sock away in a 401K also change after age 50?
+USPS - \notice left business closed\ on my tracking information?
+Do you need ID to use a gift card at best buy?
+Why does American Apparel Stock suck so bad? APP?
+How come the stock market is closed on MLK birthday?
+Royal Mail \Something for you\ card - Missing parcel?
+Young driver's insurance on a TVR Tuscan?
+How do i quit my job in person?
+Which turbo tax product is right for me?
+Can the job centre section my JSA for not going to my weekly job search program, for going to a job interview?
+How does the MCC credit work when filing Taxes?
+During the late 90s, while the s & p 500 went up, the railroad stocks went down, why did that happen?
+Is being a Medical Sonographer worth it?
+California Tax return?
+10 pts! EASY accounting question!?
+how does one learn of foreclosed houses to buy?
+Would insurance cover a water birth?
+How does it work if you want to get taken off a joint mortgage?
+Testing and Automation in IBM Career Guidance Needed?
+Why list on ebay with a reserve price?
+What will UPS do if I'm not home?
+advice on first month rent in advance?
+How does unemployment work?
+How much does it cost to get into Cosi?
+can i refuse to be searched at work?
+border patrol jobs?.?
+How to live and budget on $30,000 salary?
+Does Job centre provide travel expenses?
+I am sending £1000 to my niece through my bank but when I type in the amount it faults me. What must I do ?
+Who has seen or bought products from HotsFree.com?
+No information available for reference number?
+What's the best online site to do taxes?
+Real estate experts, what is the catch to this home?
+Just a few questions about debits and credits?
+Request for some business ideas and business partner to start business in Philippines.?
+How to let my employer know that...?
+What system(s) should I use to sell 1 Million websites a year?
+I have a job interview tomorrow for a SALES role, therefore I have to be extremely confident?
+When I get paid do I get a check or cash money?
+what does it mean for employees if their store is unionized?
+Can Fullers(pub) do this ?
+school and tax credit 1098 from?
+Is health insurance a total scam or what?
+Looking to get an apartment any ideas on these costs below?
+Do you know of any make/models of diesel outboard motors? around 40-60hp?
+How to replace wheels?
+can i run my 1987 chevy truck open headers in minnesota for a week without major damage?
+Selling car - blurred license plates?
+Does a loud exhaust help increase others awareness of you?
+Will a dremel cut a grade 8 bolt?
+How an rc jet engine continuous to run without the motor?
+i have a question about Dodge trucks ?
+Can any one tell me something compact that would cut a grade 8 bolt?
+How far (distance) will car dealers go to locate another dealership to find a matching car?
+What plane would you feel safer in 50 years ago an me262 or p51?
+how do the auto-locks work on 2006 Honda Accord?
+best 1000wat RMS dual chanel amp?
+\Insured and named drivers only to drive\ - UK car insurance?
+Is it possible to drop down a price on a used car at a dealership?
+How to make the fuel pump on a 97 Cadillac keep pumping without the engine running?
+What's a good sounding fairly cheap slip on exhaust?
+Why does my aftermarket Water Temp Gauge keep breaking?
+How would you release locked up emergancy brakes?
+Why does my Truck have 2 Coolant Sensors? 88-98 Chevy Pickup?
+Rust behind my tyre wheel?
+How do I get the snow off of my car?
+How much should I sell my 97 Accord for?
+Can I read my Check Engine Light codes at the Computer? Chevy Truck?
+Boeing 727 Throttle Friction?
+Bmw help please need advice.?
+I'm looking for Ford Focus radio code - m109388?
+How much is Florida's car insurance each month.?
+If you were given 20k to spend on a car what would you get and why?
+1 ohm stable amp at .67 ohm?
+If coolant spills when being drained or when replacing a hose will it cause it to get smoky and stink?
+My 06 rmz 250 has no compression really and i bought it off some1 they said it needs rings but im not for sure?
+Engine overheated, battery light on, steering wheel got stiff?
+2009 Chevy Silverado Issue?
+What is this motorcycle?
+2005 Chevy impala headlights flashing, clicking sound under dash, & instrument panel dim, car won't start?
+Are Porsche Caymans expensive to maintain?
+I have a 2005 Kia Spectra & whenever it's cold it will not start.?
+Hi I am thinking of buying the PURI Electric scooter and it goes up to 35km speed and someone said I can put?
+Why is the central locking unlocking on citreon saxo ?
+Motorcycle finance/down payment?
+Are there any P-plate Legal Subaru Impreza WRX's in NSW?
+Should I get a 1991 honda civic ef sedan?
+1990 Lincoln Towncar Oil Light?
+Should I trade my year 2000 mazda millenia for an audi a6 1998?
+windscreen wipers question?
+Sundown Audio X vs Kicker L7?
+What guage wiring kit is required with a dx500.1 watt from kicker?
+Whining noise when shifting into reverse?
+Why wont my car start?
+How will these speakers sound underpowered?
+should i get a monoblock or 2 channel amp for my 2 12inch subs 1000watt rockford fosgate prime r2d4?
+Why do my lights dim when I accelerate?
+my truck rear shocks are blown. will putting a snowmobile in the box of my truck be bad for it?
+My truck feels like the brakes r on while driving. And when I put it in neutral it takes a lot to move .?
+Does the series matter?
+How much does a taxi charge you to wait for you to come out?
+Can a 18 year old drive a plow truck?
+Which nissan maxima do i have?!?
+What would it take to wind a 50cc scooter to 18000 rpm?
+Can some else go to DMV for me?
+My brand new pioneer 900w amp is in protect mode. Help!?
+How can I manually adjust Tru-Balance leg lifts?
+Does each ship/boat have its own table of offsets or are they a general rule for every vessel?
+Help with subwoofers and amplifiers?
+Which car to buy for my first car?
+why does Honda civic Eg smoke high rpm?
+dishwasher loud after cleaning?
+Is a 1.4 inch drop too much for my 2002 Nissan maxima?
+Why does my car keep stalling?
+Is there a way to get your drivers license online?
+Is it possible to drop down a price on a used car at a dealership?
+what type of amp should i get for my 2 12inch rockford fosgate prime R1S412?
+Is it possible to drop down a price on a used car at a dealership?
+Failing an ignition interlock test sober?
+Driving 70miles on Moped??
+merc switched off itself while was on...now wont start.all lights come on dash but nothing happens?
+Behind the wheel Drivers test can I rent a car for my 18 year old to use?
+Is an Acura Rsx a hatchback or coupe?
+Best way to lift a 4x2 tacoma?
+How do trains get electricity from lines?
+I have a 2008 Dodge Avenger and have replaced my alternator in Oct and my starter in Oct, Dec & Jan.?
+Can I use blue silicone on a water pump gasket , my tube of red has hardened .?
+What is the maximum watt amp I can have?
+Im looking to buy a car but dont know what?
+first day of driving school?
+1997 Jeep Grand Cherokee Won't Start?
+What oil should I use?
+1997 Nissan Pickup Turning Over but won't start?
+Why did my battery and break light turn on, airbag light start blinking, and then my car shut off?
+how long does road salt stay on the road,once it has been put down?
+Why doesn't the Electric start unless the scooter engine has been warmed up?
+How do i pass a driving test?
+Difference in motorcycle gear.?
+What is the hardest hitting 12 in car subs?
+Note 3 streaming music via USB through car radio??
+350 in 1973 chevelle malibu 4 door.?
+what is this part of a car? how much to replace?
+What are you Top 5 Car Sounds?
+is the morgan 3 wheeler street legal?
+Can a 1997 Chevy Tahoe get tootled by a smaller car?
+If I book train tickets in advance can I collect them on the day?
+How do people get insured with provisional licenses?
+What is the life span for an electric fuel pump on a car, 2000 ford Windstar?
+Is it possible to buy a Hyundai i40 estate wagon in the US?
+What is the best things to study for when taking a drivers test?
+How much do car washers make.?
+Disconnected coil pack while car was running now car wont start?
+Cheap ways to get spilled motor oil off driveway?
+Am I loosing Fuel Economy without Car knowing Engine Temperature?
+Can someone please tell me what kind of radiator hose this is?
+My estranged husband crashed my car(he's a named driver) into a parked car whilst drunk.?
+Need help choosing a car?
+Lamboghini Aventador vs. Ferrari 458 italia?
+got a spare key for a 2002 gran prix. will unlock doors and \start\ engine, but car shuts off.?
+Why does Virgin Trains not advertise their Class 221 Super Voyagers?
+Porsche PDK vs Ferrari transmission?
+how should you put out a fire in car engine? pouring water on a oil fire is dangerous?
+honda had 16 x 6.5 rims...?
+i'm buying an old car?
+Buying a used car need answer to registration question. Missouri?
+What is the outcome of this car accident? Insurance question.?
+I don't want to drive anymore! I'm terrified and feel unsure of myself, help?
+Does anyone know where this is?
+Do I 1st need car insurance to take license test or does the car I use for the test just need to be insured?
+can i get a car insurance quote over the phone UK?
+Alpine MRP-M500 not working?
+Is something wrong with my furnace?
+ford 9 inch rear end?
+When I turn my subs and car audio off does it still use energy?
+What will the grader ask me on the TX DPS Road Test?
+My height is 4.5 feet...Can I ride Pulsar 200 NS?
+Does Amtrak still not inspect carry on baggage?
+My car is in the impound. Any advice? No insurance.?
+What is the brown sludge under my coolant reservoir cap?
+2014 chevy vs 2014 Explorer?!?
+How many watts of power is my Sony amp?
+I have a 1998 chevy 1500 truck i put wires on and plug and new distributor and cap sometimes it hard to start?
+Is 87 octane Regular Shell Still Superior?
+How long does it take for oil to reach the engine?
+Leaking oil from the engine block?
+Hi, I have a Vauxhall Vivaro where the hot air blower works on setting 1-3 but not on 4. Any ideas? Thanks.?
+car top speed turning off music?
+need help with interior lighting on minivan?
+What should i call my MC?
+bad car paint job help?
+I have a kicker 300.1 amp with 2 12 inch kicker comps in a box together running both at 2 ohms?
+do new cars have a first service these days?
+Which is the best bike in 150cc,need milege,pickup,good looking?
+Subways in Europe vs. Subways in America?
+why railway monitoring is necessary?
+Toyota highlander hybrid pros and cons?
+What is the best way to travel?
+A locker for my Ford Differential?
+Turbocharger vs Supercharger? Which one performs better?
+should I buy a nicer car before I start my own business.?
+How do I get my car title back from my dad that has both our names on it and was payed for entirely by me?
+In Californa is there a 5 day grace period when pruchasing a vehicle from a private party?
+Changing a head gasket on a 2001 firebird trans am ws6?
+is it harder to maintain and work on a diesel than a gas?
+Mid grade in unleaded only tank?
+Does new lower control arms come with preinstalled bushings? or would I have to buy bushings seperately?
+How to get a title for car with a lost title in NC?
+Will BestBuy replace my amp they broke?
+Will the police move a car if it has no insurance?
+Whats the best advanced auto code reader I should buy?
+can an automatic transmission be made to have extra gears just by altering the valve body?
+Why are thumbtacks so expensive?
+I got a 305 block with a crank that matches a 350 and a 305. the motor is bored 30 over.?
+Why do people follow so closely on the freeway?
+Why do a lot of guys think a lot about cars they will never drive?
+When substantially increasing hp should gears be set lower or higher?
+Any advice on fixing up a high mileage car?
+Will I get a settlement from insurance company? How much should I expect, it anything? Help?
+Can a 1971 dodge challenger have a front trunk?
+Right Rear Blinker does not work on my 2010 Ford Escape. What's wrong ?
+nitro rc keeps dieing after 10 seconds of use?
+nitro rc keeps dieing after 10 seconds of use?
+People always say Lamborghini 'OWNS'?
+Is is my starter or something else?
+Is getting a 2 wheel drive tacoma lifted dumb?
+I like the 2006 Pontiac GTO for my next car, would you suggest that? If not, what would you suggest?
+Which bike should I get; DRZ 400sm or Husqvarna Te 449?
+Why can't a new vehicle be returned for a refund?
+Should i get a 300cc or 600cc street bike?
+How can I close my trunk door from the inside?
+need help with audiovox overhead dvd player?
+my 2002 Chevy Silverado redlines immediately after starting. why?
+How much money can I make as an auto mechanic?
+How much is average mechanic labor? Replacing car doors?
+First Sound System Questions?
+my coolant reservior is not circulating.?
+Would flipping a 1977 grand prix be a smart, profitable decision?
+Best flagship Iphone 5s or samsung galaxy note 3?
+Why does my stereo cut out?
+Should I get a 2014 Fiesta ST or keep my 00' Monte Carlo SS?
+2005 Ford Focus ST, 125,000m, the engine light came on. Could it be a reminder to have the car checked?
+having a vent tube problem?
+Which is better vehicle?
+How do I take the permit test?
+Do I need anymore upgrades for my computer?
+How do you see \friendship\ on Facebook?
+What is something that works like an Ethernet cable but is longer and more durable?
+Need Gaming Laptop under 1,800 USD?
+Why does my PC get's progressively slower the longer i leave it on?
+Does anyone know if there are any real celebrity's on facebook?
+how much watts do i need for my PC?
+How to pull up these videos..................?
+HP Computer help. Windows 7.?
+How fast is this? Opinions? Help?
+What are some good javascript project ideas?
+When I right click files it takes about 10 seconds to load, why?
+Is it possible to get fiber optic internet in the U.S.?
+Is it possible to get fiber optic internet in the U.S.?
+the sound on my asus laptop suddenly stopped working!?!? help please!!!!!!?
+Does anyone have a pinterest account that I could have?
+Custom computer build needs revisions?
+Does google hangout charge you?
+What is the best way (service provider) to receive online donations?
+How the HELL do i delete overwolf?
+Can I use Microsoft office 2010 on Windows 8?
+Do you have any idea of the depth with which youtube, google and yahoo can KNOW everything?
+That MandiantUSA Malware thing popped up and I restarted without safetymode, Am i okay?
+Easy Way to tell GPIO?
+why are my pictures too small thats all I have?
+why does my computer shut off by itself??
+HDD to Hybrid Hard Drive?
+javascript while loop?
+Is Google Hangouts free?
+How do you transfer your hard drive data to another including the Operating System?
+chromebook can you increase the resolution i.e make words bigger?
+Instagram hijacked.. Help?
+Will my PSU support a Nvidia GTX 760?
+Is the Cheshire Police virus from my computer completely gone?! Scared! {Best Answer gets 5*}?
+Why are my neighbours so mad at me?
+Have I been blocked on Facebook?
+Which is more important to upgrade? CPU or Video Card? Which one should I upgrade?
+What program can I download to unzip files?
+Why do people make fake Facebook account?
+Help !?!?!? i need help writing this java class/ or a nudge ?
+My CD Can only fit 80mins but 700mb ?
+Facebook timeline..why does n't mine include 2014?
+Why is if(i%2) the same as if(i%2!=0) in javascript?
+Question about Twitter..I know I've asked a lot but please answer this is stressing me out SO much :'(?
+About my computer project , the difference between a gaming and normal PC ?
+Im 15 and want to start learning programming languages?
+where can i find a selector like this that affects price for website?
+Help! If I searched something on a public network can they see it?
+What is the Solution? x4 + x3 + x2 + x = 0 ?
+Help! If I searched something on a public network can they see it?
+Is it possible to disable the feature where holding down the power button forces a shutdown?
+iPad Mini or iPad Air?
+How much money am I going to make from youtube?
+Shader/memory/GPU clock, help please?
+can i overclock my laptop proccsor?
+I cannot delete an ikmage from the dropbox on an s3?
+How to watch youtube video on android 4.2.1?
+Constant 60 fps in CS:GO?
+If a downloaded/ torrent file requires one to extract a zip into system32 folder, should I be suspicious?
+Firefox wont load error can't loadXPCOM cant remove firefox in control panel. what is this?!!?
+All my friends question why I'm not on Facebook?
+Key on HP laptop not working?
+how can I receive my channels over deleted youtube chanel?
+How can I differentiate between two keyboards in Java coding?
+Which one is better intel core2 quad Q9505 or amd fx 6300?
+Should I get a faster CPU for this build?
+Paint.net No Plugins are Installing?
+Microsoft Word, any suggestions?
+How do you make chrome extensions?
+installing adobe audition CC, problems??
+What's a good youtube account name?
+Will someone confirm that my java project is correct (hot dog stand)?
+I want to upgrade My graphics card?
+How do I make a group abbreviation show up next to the display name in steam?
+Having problems installing my new HP laptop. Need help!?
+is this computer good for gaming? and if so what tier of games can it run.?
+How to change my name in facebook?
+Is it better to leave my computer on all the time or to shut it down when I dont use it.?
+Screen Resolution Question?
+How to fix a jupad in mixater?
+Would an Haswell-E processor bottleneck a GTX 780?
+Can anyone identify this font please?
+Is \Viber\ safe to send personal Documents & details?
+Why there are no mini-ITX form factor for LGA2011 sockets?
+Is \Whats App\ safe to send personal Documents & details?
+when i copy and paste text into a pages document.....?
+BSOD possibly caused by USB wifi adapter?
+Visual Basic 2010 - Save text line to array?
+when i open my pendrive in the PC, it show files, folders in shortcut format & show the size only 1KB?
+Mouse left button not work properly.?
+How can I load any OS after dual boot?
+reinstalling acer aspire one d255?
+help! I vaccumed my laptop (compaq cq60 415ee) vents and now the fan seems stuck?
+What about epson l210 ?
+How to tell whats causing WHEA_UNCONTROLABLE_ERROR?
+Is watching porn illegal?
+Any sugeestions for my 3D video to the mp4 video format?
+how can I add gnome 3 to bodhi linux ?
+Best history searching search engine like Google...?
+Are the formulas in Open Office Calc the same as in Microsoft Excel?
+Any Website Which Can Detect my Computer / Mobile Screen Size and Provide me the right Resolution Wallpapers ?
+I want to clone a video on my DVD but what is the best way?
+Should I remove my laptop's battery while playing games ?
+How to make those valentines?
+How do i scan photos into my laptop?
+ebay beyer protection question?
+How to make those valentines?
+What do you recommend for FM2 Socket Heatsinks?
+How Do I Change The Language Of Internet Explorer 11?
+Yo computer geniuses, show me steps about modifying the windows 7 registry to reset the duration of trial apps?
+Is \Google it\ the answer to EVERY question?
+Will this run like a Core i7?
+What do you look for when you watch videos on youtube?
+How to burn a DVD of a 2.35:1 aspect ratio mp4 vide file without distortion?
+Is it better to connect my CPU radiator to cpu fan socket or pump?
+is a lexmark 2580 printer compatible with a mbp 15\ 2.53?
+What to do with small screen?
+Printer Problems: Printer printing incorrectly.?
+How many youtube accounts can you subscribe to?
+Want to reactivate my Facebook account. Can they see me online?
+Computer Science Java Help?
+Bsod when playing games (LoL)?
+CPU Cooler Installation?
+Gtx 770 2gb for dual monitors?
+My question is how to do a factory reset on dell xps m1530 on windows vista?
+How to deauthorize Google Play Account?
+How do you get on YouTube Poop?
+What is the selector bar on the left of the screen on Ubuntu called?
+Should I learn HTML for fun?
+Can someone explain this to me in plain English.?
+How to find more information about fb account?
+What is good editing laptop?
+Why does my 250 GB hard drive show up as a 74.4 hard drive? (Windows XP Latest service pack)?
+What's the Dell i660-6988BK capable of?
+starting with the ip address..?
+Laptop doesn't have a disc drive?
+Will an iMovie project play on pc?
+Simple java \else\ statement not working?
+Difference between notebook and laptop?
+Can I fix this computer battery issue?
+i cant delete an app on my pc?
+getting fps drops after restoring my comp?
+Can someone help me with a Tumblr problem?
+The Oldest Desktop Rig You Use?
+i downloaded a software that changed my registry?
+How to kick someone off wifi with iphone?
+Can anyone point me towards their favorite gamers on Youtube?
+should I let my macbook pro with retina display battery to die ever?
+How do i know if the parts of a Toshiba C855D-S5344 are compatible with a Toshiba C655-S5082?
+My puppy ate my iPad wire?
+Microsft office on flash drive?
+Internet Explorer Error Message :Stopped working?
+PLEASE READ- how long will wifi stay?
+I clicked on a police virus page, should I be worried?
+How do I fix loading problems on Facebook?
+If It Isn't Blue Screen of Death than What Is It?
+Can I reinstall Win 7 without affecting boot menu?
+How do you format an ssd to NTFS?
+What specific drivers do I have to get for a new laptop?
+Is the Corsair CX500 compatible with the Asus M5A99X EVO R2.0?
+Am building a budget gaming pc I am a starter at building pc so I need help?
+Odd Google Chrome history problem!?
+Should i get the Mac Book Air or the Windows Tablet?
+If I backup my laptop will it save all my favourite bookmarks and/or channels I'm subscribed to on utube?
+Need help with writing a program that involves arrays in C language?
+Where have my itunes songs gone?
+after installing new hard drive and windows 8 no internet (Wi-Fi or LAN)?
+Where is my inbox in youtube?
+Where is my inbox in youtube?
+I got a NEW Asus computer, help with Administrator/Standard user permissions?
+Can I dual up A10-6800K APU and XFX R7850 Core Edition?
+removing microsoft visual c++ 2010 x86 redistributable - 10.0.30319?
+I need help on making videos?
+Is it illegal to film a video that was in youtube?
+Is it illegal to create fake people on the internet?
+Should I learn python 2 or 3?
+how to cancel startup repair?
+Do you know a website where i can watch Pirates of the Caribbean 4:stranger of tides free?
+What Ethernet cable is best for 10/100Mbit Ethernet Interface?
+I'm looking to buy a computer?
+Why have you deleted the ability to print an article?
+How can I resize my hard drive past the allowed amount on Windows 7?
+Computer Shuts Down 3 Seconds after Turning On?
+Is the MSI GTX 760 Twin Frozr Gaming 2GB a bad card?
+Hard disk S.M.A.R.T command prompt failed?
+I think somebody is watching me through my webcam?
+My Hiberfil.sys, pagefile.sys and swapfile.sys are infected whith a virus. What shuld i do?
+Question about reporting malware?
+Arduino / Simple electronic question?
+What is wrong with my computer and Minecraft?
+Looking for the ideal laptop for me?
+Do main computer and laptop have the same ip address?
+iwork for snow leopard?
+Is there a program that can put all my music at the same sound level?
+Is Macbook Air good for my needs?
+What do you think would be a good graphics card upgrade?
+video card high temp?
+What is better? Gaming pc?
+need new tumblr blogs to follow?
+There is a guy my mom is friends with on facebook and he is really dirty.?
+Is there a delay between retail and Nintendo eShop release?
+What are some good racing games for PC?
+My Playstation wont pick up my Wifi!?
+Help with Emerson 19' inch Flat Screen TV?
+Where can I buy an iPhone case like this?
+Need Help About Buying A Camera?
+What's the difference between urbeats and urbeats se?
+Playstation store under maintenance?
+The battery in my iPod lasts for less than 2 hours. Is that normal?
+Why won't it let me download O2 tracks?
+What's a DSLR camera?
+Is PS4 better or Xbox One?
+XBOX 1 or PS4? Need help deciding..?
+where and what kind of camera should I buy?
+How do I connect an old original Xbox to a Sony HDTV. It has no yellow port?
+Is a 4gb Xbox 360 enough storage space?
+Can i play fallout 3 on this laptop?
+Can I switch carrier but still keep my cell phone number in US?
+Is it possible to upgrade the hard drive on the Xbox 360 E?
+Which camera is this?
+Do higher contrast or brightness causes a television to consume more energy ?
+Cold weather effect shipping battery?
+The apps on my iPad won't load?
+Cheap but good microphone?
+Should I get a smartphone, or HTC Android?
+Suggest a Camera for a beginner.?
+230V for 15 PC Fans...Is it possible?
+Droid RAZR screen went black?
+Is \BBM\ safe to send personal Documents & details?
+Portable power socket?
+If iphone drops calls sometimes,how to know fault is with service provider or phone?
+will it be a good gaming pc please help me?
+How can I put music from my Ipod onto my PC?
+I Need Help For My Pc please help?
+if i have 21.49 on my xbox live account can i buy a 14.99 thing and a 4.99 thing with tax?
+Internet speed required for ps3 online gaming?
+Need Help With My Samsung Galaxy S3? (10 points best answer)?
+Do hdmi cables matter. For ps3?
+Assembling a gaming pc under Rs.35000/-?
+Way to track a number from an app?
+Its about my ps3 and i need an answer.?
+which is laser is more powerful/bright red 5mW green 5mW or purple/blue 5mW?
